@@ -1,7 +1,6 @@
 
 import os
 import sys
-sys.path.insert(len(sys.path), 'PyDrive/')
 
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
