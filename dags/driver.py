@@ -37,5 +37,6 @@ class Driver():
         textfile.SetContentFile(file_name)
         textfile.Upload()
 
-drive = Driver()
-drive.upload_file(folder_id ='1wCQlfB-q1Aj6AceKz5RLBExMo9bJFutc',file_name = '11_Escolas_Coordenadas.csv'  )
+if __name__ == '__main__':
+    drive = Driver()
+    drive.upload_file(folder_id ='1wCQlfB-q1Aj6AceKz5RLBExMo9bJFutc',file_name = '11_Escolas_Coordenadas.csv'  )
