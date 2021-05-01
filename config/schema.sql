@@ -1,5 +1,21 @@
-CREATE TABLE escolas (
-	id integer CONSTRAINT pk_id PRIMARY KEY,
+
+CREATE database escolas;
+
+
+CREATE TABLE enderecos (
+	id serial,
+	municipio varchar(30),
+	nome_escola	varchar(100),
+	endereco_escola varchar(60),
+	numero_endereco	varchar(20),
+	cep integer,
+	bairro varchar(57),
+	longitude varchar(12),
+	latitude varchar(12)
+);
+
+CREATE TABLE enderecos (
+	id serial,
 	nome_rede_ensino varchar(20),
 	diretoria_ensino varchar(30),
 	municipio varchar(30),
@@ -10,11 +26,11 @@ CREATE TABLE escolas (
 	tipo_escola varchar(40),
 	endereco_escola varchar(60),
 	numero_endereco	integer,
-	complemento integer,
+	complemento varchar(50),
 	cep integer,
 	bairro varchar(57),
 	zona_urbana varchar(6),
-	longitude integer,
-	latitude integer,
+	longitude varchar(12),
+	latitude varchar(12),
 	cod_vinculadora	integer
 );

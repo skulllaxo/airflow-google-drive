@@ -1,0 +1,1207 @@
+	municipio	nome_escola	endereco_escola	numero_endereco	cep	bairro	longitude	latitude
+0	sao paulo	ayres de moura professor	rua artur orlando	907	5118000	vila jaguara	-46,74909973	-23,5121994
+1	sao paulo	gaviao peixoto brigadeiro	mogeiro	710	5208230	vila perus	-46,75939941	-23,40469933
+2	sao paulo	joao solimeo	do sabao	1497	2806000	jardim maristela	-46,70082092	-23,48127937
+3	sao paulo	walfredo arantes caldas professor	deputado cantidio sampaio	1701	2860001	vila souza	-46,6795311	-23,46417999
+4	sao paulo	sebastiao de oliveira gusmao professor	rua francisco giron	SN	5267000	morro doce	-46,79224851	-23,43794952
+5	sao paulo	suzana de campos dona	antonio maia	691	5204110	vila perus	-46,75506973	-23,40682983
+6	sao paulo	julio de faria e souza professor	pompeu pequeno de souza brasil	89	2881100	vila francos	-46,67404543	-23,4676003
+7	sao paulo	julio cesar de oliveira professor	alberto veiga	99	5172270	vila pirituba	-46,7458992	-23,48139954
+8	sao paulo	renato de arruda penteado professor	floriano da costa barroso	10	2855220	jardim carombe	-46,70204926	-23,45809937
+9	sao paulo	joao boemer jardim professor	cristovao santiago	50	2871040	jardim ondina	-46,67359924	-23,46120071
+10	sao paulo	francisco faria neto professor	silverio de castro sousa	102	2982000	jardim sydney	-46,71620178	-23,45070076
+11	sao paulo	jose altenfelder silva professor	carlos alberto vanzolini	397	5103060	vila dos remedios	-46,75196764	-23,51357366
+12	sao paulo	mariano de oliveira professor	rua almirante isaias de noronha	13	2919100	vila pereira barreto	-46,71562958	-23,49102974
+13	sao paulo	silvio xavier antunes professor	jose da silva martha	150	2913100	piqueri	-46,71319962	-23,50185966
+14	sao paulo	octavio monteiro de castro professor	itaquirai	1	5132110	vila mangalot	-46,74431992	-23,50489998
+15	sao paulo	pio telles peixoto professor	artur orlando	985	5118000	vila jaguara	-46,74881744	-23,51172829
+16	sao paulo	zenaide vilalva de araujo professora	belo jardim	674	5159200	jardim mutinga	-46,7517443	-23,4858315
+17	sao paulo	antonio candido correa guimaraes filho professor	mutinga	5071	5110000	jardim santo elias	-46,75820923	-23,50484085
+18	sao paulo	agenor couto de magalhaes doutor	guilherme mankel	99	5176000	vila clarice	-46,74649811	-23,47100067
+19	sao paulo	alipio de barros professor	avenida comendador feiz zarzur	SN	2942000	jardim cidade pirituba	-46,7188	-23,4796
+20	sao paulo	antonio francisco redondo professor	evandro danton ferreira gandra	148	5131100	vila mangalot	-46,74206161	-23,49681091
+21	sao paulo	candido goncalves gomide professor	avelino zanetti	50	2945100	jardim cidade pirituba	-46,72731018	-23,48432922
+22	sao paulo	chiquinha rodrigues	caiape	SN	2867000	vila penteado	-46,68355179	-23,47125053
+23	sao paulo	isabel vieira de serpa e paiva professora	jerimanduba	561	5181000	jaragua	-46,74621559	-23,4551737
+24	sao paulo	clodomiro carneiro	manoel de souza azevedo	364	2809040	sitio morro grande	-46,70299911	-23,47159958
+25	sao paulo	ermano marchetti	pedro marigliani	192	5141010	chacara inglesa	-46,729599	-23,49329948
+26	sao paulo	galdino lopes chagas professor	sabao	1547	2806000	jardim maristela	-46,69749832	-23,46829987
+27	sao paulo	humberto de souza mello general	avenida deputado cantidio sampaio	6803	2860001	parada de taipas	-46,717659	-23,43593025
+28	sao paulo	dalila de andrade costa professora	arroio do meio	SN	2878120	jardim vista alegre	-46,68560028	-23,4538002
+29	sao paulo	benedito tolosa professor	praca dirceu de lima	617	2515050	casa verde	-46,65769958	-23,51063919
+30	sao paulo	ary barroso	rua santa eudoxia	630	2533010	parque peruche	-46,6555318	-23,4978625
+31	sao paulo	pedro monteiro do amaral capitao	rua nursia	412	2524020	jardim sao bento	-46,65063095	-23,50268936
+32	sao paulo	manuel da nobrega padre	rua santa prisca	122	2518010	jardim laranjeiras	-46,66328812	-23,50877953
+33	sao paulo	manoel da nobrega padre	itaberaba	145	2734000	nossa senhora do o	-46,69787979	-23,49990082
+34	sao paulo	matilde macedo soares	jose soriano de sousa	30	2555050	casa verde alta	-46,66732025	-23,49567032
+35	sao paulo	pasquale peccicacco	nazario pagano	225	2961030	jardim monjolo	-46,69765091	-23,49217987
+36	sao paulo	antonio jose leite prof	dez de maio	271	2615100	vila amelia	-46,65530014	-23,47050095
+37	sao paulo	antoine de saint exupery	rua antonio ribeiro de morais	184	2751000	vila carbone	-46,6813154	-23,4914963
+38	sao paulo	joaquim luiz de brito professor	rua santa lucia filippini	65	2737100	itaberaba	-46,6907	-23,4886
+39	sao paulo	marques de tamandare almirante	jacarecopaiba	33	2965170	vila marina	-46,70240021	-23,4843998
+40	sao paulo	joaquim silvado doutor	rua monsenhor manoel gomes	306	2975120	vila zat	-46,70999908	-23,47990036
+41	sao paulo	republica do chile	maracaia	204	2612020	vila nova cachoeirinha	-46,66342163	-23,47013092
+42	sao paulo	angelina madureira professora	rua vicente ferreira leite	489	2723000	vila siqueira	-46,6806536	-23,4985927
+43	sao paulo	taunay visconde de	avenida celestino bourroul	304	2710000	limao	-46,67290115	-23,51091957
+44	sao paulo	augusto ribeiro de carvalho professor	rua professor joao machado	511	2927000	nossa senhora do o	-46,70286942	-23,4980793
+45	sao paulo	augusto meirelles reis filho professor	rua padre joao gualberto	311	2537000	imirim	-46,65129089	-23,49152946
+46	sao paulo	mathias aires	moinho velho	355	2929000	moinho velho	-46,707901	-23,49419975
+47	sao paulo	luiz gonzaga righini professor	avenida deputado emilio carlos	900	2720100	limao	-46,67613983	-23,49702072
+48	sao paulo	mario teixeira mariano professor	rua dom antonio de almeida lustosa	94	2756030	jardim primavera zona norte	-46,67782974	-23,48488045
+49	sao paulo	jose carlos dias professor	rua vichy	488	2522100	vila baruel	-46,66022873	-23,50438881
+50	sao paulo	colombo de almeida professor	rua graciano altieri	114	2545060	casa verde alta	-46,66149902	-23,4939003
+51	sao paulo	tarcisio alvares lobo	rua estela borges morato	500	2722000	vila siqueira	-46,68330002	-23,50270081
+52	sao paulo	joaquim nabuco	rua joaquim afonso de souza	355	2543000	vila celeste	-46,66577911	-23,48856926
+53	sao paulo	jacomo stavale professor	manuel madruga	205	2960020	moinho velho	-46,69970322	-23,49601555
+54	sao paulo	nossa senhora do retiro	rua  doutor  pedro mustre portugal	265	2952080	vila renato zona norte	-46,71965027	-23,47281075
+55	sao paulo	dulce ferreira boarin professora	rua doutor fleury silveira	295	2563010	vila santa maria	-46,67020035	-23,48973083
+56	sao paulo	plinio damasco penna professor	rua general ulhoa cintra	37	2759030	vila bancaria munhoz	-46,68378067	-23,48321915
+57	sao paulo	paulo setubal	avenida deputado emilio carlos	1980	2720200	limao	-46,67535019	-23,48938942
+58	sao paulo	tito prates da fonseca	mendonca junior	611	2610010	vila dos andrades	-46,66410065	-23,4769001
+59	sao paulo	regente feijo	antonio de couros	SN	2726000	vila palmeiras	-46,6899	-23,4972
+60	sao paulo	antonio emilio souza penna professor	carolina maria do carmo	30	2729080	vila albertina	-46,69260025	-23,50379944
+61	sao paulo	augusto de macedo costa doutor	conceicao de jacarei	8	2805140	vila cruz das almas	-46,69689941	-23,48027992
+62	sao paulo	pio xii	otavio dominguito	50	2912040	piqueri	-46,7094157	-23,5058535
+63	sao paulo	frontino guimaraes	rua paulo goncalves	55	2403020	santana	-46,62776947	-23,49644089
+64	sao paulo	romulo pero professor	rua copacabana	243	2461000	santa teresinha	-46,63784027	-23,49398041
+65	sao paulo	paulo egydio de oliveira carvalho senador	araritaguaba	1264	2122011	vila maria	-46,58198166	-23,51498985
+66	sao paulo	toledo barbosa	rua maria candida	293	2071010	vila guilherme	-46,61178576	-23,50193135
+67	sao paulo	rita bicudo pereira profa	peri ronchetti	494	2633000	jardim peri	-46,65100098	-23,46190071
+68	sao paulo	horacio lafer ministro	dias da silva	1464	2114002	vila maria	-46,58465958	-23,51390076
+69	sao paulo	narbal fontes professora	avenida conceicao	806	2072000	carandiru	-46,605751	-23,50029
+70	sao paulo	octavio mendes doutor	rua voluntarios da patria	3422	2402300	santana	-46,62620163	-23,48914909
+71	sao paulo	paul hugon prof	jose de almeida botelho general	196	2422090	parque mandaqui	-46,63539886	-23,47109985
+72	sao paulo	maria montessori	conceicao	2288	2072002	vila paiva	-46,59312826	-23,50017284
+73	sao paulo	florinda cardoso professora	itauna	748	2111031	vila maria	-46,59052627	-23,51597168
+74	sao paulo	afranio peixoto	rua maria candida	1936	2071013	vila guilherme	-46,5969696	-23,50844002
+75	sao paulo	visconde de inhauma almirante	guaca	1382	2435001	lauzane paulista	-46,63349915	-23,47669983
+76	sao paulo	anesia sincora professora	rua jose bernardo pinto	758	2055001	vila guilherme	-46,60467911	-23,51567078
+77	sao paulo	herois da feb	rua soldado benedito eliseu dos santos	SN	2177020	parque novo mundo	-46,56898117	-23,51194954
+78	sao paulo	imperatriz leopoldina	togo	571	2124050	jardim japao	-46,57794952	-23,5053997
+79	sao paulo	raquel assis barreiros profa	penha brasil general	1255	2673000	vila nova cachoeirinha	-46,6683	-23,4641
+80	sao paulo	joao vieira de almeida	guilherme cotching	1272	2113012	vila maria	-46,58943176	-23,51825905
+81	sao paulo	joaquim leme do prado professor	avenida imirim	2113	2465200	imirim	-46,6522789	-23,48822975
+82	sao paulo	julio maia	sobral junior	234	2130020	vila maria alta	-46,58980942	-23,50536919
+83	sao paulo	jose marcelino da fonseca major	rua soldado bentinho	87	2418090	parque mandaqui	-46,62895966	-23,47079086
+84	sao paulo	castro alves	francisco bruno	67	2432070	vila mariza mazzei	-46,63970184	-23,48559952
+85	sao paulo	pedro costa deputado	nilo luis mazzei	378	2081070	vila isolina mazzei	-46,60280991	-23,4934597
+86	sao paulo	carlos de laet prof	albertina vieira da silva gordo	147	2410000	vila aurora zona norte	-46,6242981	-23,47699928
+87	sao paulo	antonio lisboa professor	rua professor fabio fanucchi	425	2045080	bairro jardim sao paulo	-46,62107849	-23,50462914
+88	sao paulo	antonio vieira padre	avenida cruzeiro do sul	3301	2031200	caninde	-46,62521362	-23,50171089
+89	sao paulo	homem de mello barao	rua alfredo pujol	1555	2017013	santana	-46,62908936	-23,50016975
+90	sao paulo	buenos aires	rua doutor olavo egidio	1008	2037001	santana	-46,61624908	-23,50009918
+91	sao paulo	goncalves dias	nilo luis mazzei	SN	2081070	vila isolina mazzei	-46,60326004	-23,49443054
+92	sao paulo	casimiro de abreu	rua coronel jordao	144	2075030	vila paiva	-46,60173035	-23,50790024
+93	sao paulo	republica da bolivia	rua outeiro da cruz	571	2041040	jardim sao paulo	-46,6315918	-23,48498917
+94	sao paulo	eurico figueiredo prof	fonseca filho ministro	75	2272030	jacana	-46,58660126	-23,47019958
+95	sao paulo	alberto cardoso de mello neto dr	virgilia rodrigues alves de carvalho pinto professora	633	2346000	jardim leonor mendes de barros	-46,604599	-23,46439934
+96	sao paulo	victor dos santos cunha prof	joao simao de castro	280	2141000	vila sabrina	-46,57130051	-23,49150085
+97	sao paulo	sebastiao de souza bueno prof	francisco de medeiros jordao	579	2214030	vila medeiros	-46,58599854	-23,49230003
+98	sao paulo	johann gutenberg	busse capitao	391	2232050	parque edu chaves	-46,56330109	-23,47360039
+99	sao paulo	luiz amaral wagner prof	nicolino morena doutor	541	2257000	vila constanca	-46,58110046	-23,4734993
+100	sao paulo	david eugenio dos santos prof	jose de almeida	1377	2204001	vila medeiros	-46,58981705	-23,48359108
+101	sao paulo	judith guimaraes dos santos profa	manuel pereira sampaio	66	2352030	bortolandia	-46,59719849	-23,45639992
+102	sao paulo	gabriela mistral	baracca major	584	2232000	parque edu chaves	-46,5623703	-23,47837067
+103	sao paulo	jose maria reys prof	conceicao	3027	2135001	jardim japao	-46,5872612	-23,49739075
+104	sao paulo	euripedes de castro	edgar ruzzant	456	2225010	jardim brasil zona norte	-46,57550049	-23,48049927
+105	sao paulo	expedicionario brasileiro	rua altinopolis	501	2334001	agua fria	-46,620038	-23,482573
+106	sao paulo	pedro alexandrino	imbiras	49	2316000	vila nova mazzei	-46,5969	-23,4653
+107	sao paulo	julio pestana	guapira	2862	2265002	tucuruvi	-46,58340073	-23,46489906
+108	sao paulo	silva jardim	tucuruvi	724	2304002	tucuruvi	-46,60520172	-23,48130035
+109	sao paulo	alfredo inacio trindade	joao rosa	86	2255130	vila nivi	-46,59220123	-23,47789955
+110	sao paulo	albino cesar	cajamar	5	2308090	vila mazzei	-46,6067009	-23,47769928
+111	sao paulo	rafael de moraes lima prof	lavinia pacheco e silva	SN	2346140	jardim leonor mendes de barros	-46,60589981	-23,46570015
+112	sao paulo	philomena baylao profa	coronel sezefredo fagundes	14666	2368000	nucleo do engordador	-46,58358002	-23,41511917
+113	sao paulo	lael de moura prado prof	av professor castro junior	609	2138030	vl sabrina	-46,5743	-23,4976
+114	sao paulo	miguel vieira ferreira dr	francisco de medeiros jordao	628	2214030	vila medeiros	-46,58580017	-23,49209976
+115	sao paulo	maria paula marcondes domingues profa	manuel morais pontes	395	2373000	vila albertina	-46,61952972	-23,45401955
+116	sao paulo	cyrene de oliveira laet dona	ester elisa	227	2278040	vila nilo	-46,57920074	-23,45910072
+117	sao paulo	ruy barbosa conselheiro	antonio castelar de franceschi professor	200	2377080	horto florestal	-46,63059998	-23,45709991
+118	sao paulo	joao ligabue conego	grota	483	2206010	vila gustavo	-46,59609985	-23,4818306
+119	sao paulo	angelo bortolo	antonio goncalves silva	91	2352090	bortolandia	-46,59719849	-23,45499992
+120	sao paulo	amenaide braga de queiroz profa	barra mansa	480	2337040	jardim franca	-46,61169815	-23,47660065
+121	sao paulo	carmosina monteiro vianna profa	antonio palmieri	377	2210000	jardim brasil zona norte	-46,5799	-23,4857
+122	sao paulo	arnaldo barreto	antonio pestana	58	2370020	tremembe	-46,62189865	-23,4612999
+123	sao paulo	cassio da costa vidigal	muniz ferreira	121	2321170	jardim joamar	-46,58959961	-23,44799995
+124	sao paulo	pedro de moraes victor dr	boaventura coletti	SN	2324100	vila fidalgo	-46,58850098	-23,4435997
+125	sao paulo	maria angelita sayago laet profa	freire bastos	226	2261020	jardim modelo	-46,57770157	-23,46699905
+126	sao paulo	jose do amaral mello prof	alpheu luiz gasparino	84	2281110	vila nova galvao	-46,57320023	-23,45159912
+127	sao paulo	ademar hiroshi suda prof	agafita	50	2269080	parque vitoria	-46,59529877	-23,47063637
+128	sao paulo	sao paulo	rua da figueira	500	3003000	bras	-46,62594986	-23,54943085
+129	sao paulo	loureiro junior professor	rua padre adelino	1330	3303000	quarta parada	-46,58140945	-23,54381943
+130	sao paulo	theodoro de moraes professor	avenida regente feijo	586	3342000	vila regente feijo	-46,57337952	-23,55806923
+131	sao paulo	paulo monte serrat professor	toriba	141	3191130	vila canero	-46,5707283	-23,56801033
+132	sao paulo	romao puigari	avenida rangel pestana	1482	3002000	bras	-46,62112045	-23,54573059
+133	sao paulo	isai leirner	placido de castro	221	3349030	vila invernada	-46,5652504	-23,56753922
+134	sao paulo	andre ohl	sapopemba	3244	3345000	vila regente feijo	-46,5579143	-23,5739445
+135	sao paulo	andre xavier gallicho professor	mooca	4650	3165002	mooca	-46,58127975	-23,56188965
+136	sao paulo	antonio firmino de proenca prof	rua da mooca	363	3103000	mooca	-46,621604	-23,553538
+137	sao paulo	amadeu amaral	largo sao jose do belem	66	3057040	belenzinho	-46,59476089	-23,54129028
+138	sao paulo	eduardo prado	rua almirante barroso	225	3025000	bras	-46,61245	-23,537261
+139	sao paulo	guerino raso	serra da bocaina	126	3174000	quarta parada	-46,59032059	-23,54700089
+140	sao paulo	anna teixeira prado zacharias professora	paulina	149	3370040	chacara mafalda	-46,55953798	-23,57183098
+141	sao paulo	antonio de queiroz telles doutor	itaqueri	372	3178000	alto da mooca	-46,58414557	-23,55148747
+142	sao paulo	armando araujo	juvenal parada	264	3167060	mooca	-46,59716034	-23,5566597
+143	sao paulo	paulo luig frei	carlos de campos	841	3028001	pari	-46,61064148	-23,52545929
+144	sao paulo	pandia calogeras	avenida paes de barros	1025	3115020	mooca	-46,5961113	-23,56455994
+146	sao paulo	oswaldo cruz	rua da mooca	2183	3103003	mooca	-46,60365708	-23,55510165
+147	sao paulo	orestes guimaraes	caninde	153	3033000	caninde	-46,62405014	-23,53323936
+148	sao paulo	domingos faustino sarmiento	21 de abril	970	3047000	bras	-46,60578918	-23,54223061
+149	sao paulo	plinio barreto	siqueira bueno	2123	3173010	belenzinho	-46,58292007	-23,5544796
+150	sao paulo	wolny carvalho ramos professor	bom jesus	909	3344000	vila regente feijo	-46,56983948	-23,56374931
+151	sao paulo	anchieta padre	rua visconde de abaete	154	3012050	bras	-46,61354065	-23,53996086
+152	sao paulo	mmdc	cuiaba	667	3183001	alto da mooca	-46,5904	-23,56050166
+153	sao paulo	maria da gloria costa e silva professora	rua doutor monteiro de barros	110	3254120	vila elze	-46,52756119	-23,60803032
+154	sao paulo	mario casassanta professor	rua paramu	693	3147100	vila alpina	-46,565979	-23,59429932
+155	sao paulo	beatriz r bassi astorino professora	rua juiz de fora	366	3286000	vila ema	-46,53379822	-23,59091949
+156	sao paulo	mario marques de oliveira professor	buenopolis	234	3161010	vila santa clara	-46,56418873	-23,57598521
+157	sao paulo	victor miguel romano prof	sapopemba	7763	3988010	jardim adutora	-46,52370071	-23,59569931
+158	sao paulo	andre dreyfus professor	rua pedro de godoi	170	3138010	vila zelina	-46,58274841	-23,58797073
+159	sao paulo	stefan zweig	genaro arila arensanz	225	3275090	vila ivone	-46,55438995	-23,57950974
+160	sao paulo	aroldo de azevedo prof	filipa alvares	SN	3984020	jardim planalto	-46,51010132	-23,60589981
+161	sao paulo	annita atalla professora	rua lourenco caetano da silva	18	3227020	jardim avelino	-46,57062912	-23,58786011
+162	sao paulo	secundino domingues filho doutor	secundino domingues	136	3223110	jardim independencia	-46,55958176	-23,58864021
+163	sao paulo	olga benatti professora	rua ibitirama	1412	3134001	vila bela	-46,57995807	-23,59184297
+164	sao paulo	brisabella almeida nobre professora	rua santa genoveva	47	3213050	vila california	-46,56074905	-23,60597992
+165	sao paulo	joy arruda doutor	batuns	52	3273410	vila santa clara	-46,56204987	-23,57888985
+166	sao paulo	jocelyn pontes gestal prof	pedro goncalves varejao	209	3986170	jardim mimar	-46,52199936	-23,60880089
+167	sao paulo	jose heitor carusi professor	roberto ugolini comendador	300	3125010	parque da mooca	-46,58834076	-23,57563972
+168	sao paulo	francisco borges vieira doutor	rua paratinquara	67	3209040	vila alpina	-46,55850983	-23,59719086
+169	sao paulo	americo de moura professor	rua mendonca corte real	SN	3227110	jardim avelino	-46,57381821	-23,58337975
+170	sao paulo	luiza mendes correa souza professora	avenida professor luiz ignacio anhaia mello	5796	3294100	parque sao lucas	-46,54190063	-23,59213066
+171	sao paulo	joao firmino de campos	rua visconde de alcantara	350	3205060	vila alpina	-46,56837082	-23,6031208
+172	sao paulo	jose chediak	oratorio	2320	3220100	parque sao lucas	-46,54711914	-23,59256935
+173	sao paulo	republica do paraguay	rua carlos muller	21	3132060	vila sao mauricio	-46,58378983	-23,58090973
+174	sao paulo	carolina augusta da costa galvao professora	rua maria daffre	406	3150020	quinta da paineira	-46,5880394	-23,58493042
+175	sao paulo	clemente quaglio professor	manuel onha	234	3192100	vila oratorio	-46,57976151	-23,57258034
+176	sao paulo	julieta nogueira rinaldi professora	ielmo marinho	940	3236030	parque independencia	-46,54801941	-23,59975624
+177	sao paulo	joaquim braga de paula professor	avenida  do oratorio	4330	3220200	jardim guairaca	-46,53263092	-23,6015892
+178	sao paulo	julia macedo pantoja professora	assupa	200	3137050	vila prudente	-46,57653046	-23,5797596
+179	sao paulo	norberto mayer filho deputado	manuel luis de vergueiro padre	365	3476000	vila antonieta	-46,51607895	-23,57390976
+180	sao paulo	moacyr campos professor	rio das pedras	2022	3452100	jardim aricanduva	-46,50811005	-23,57114029
+181	sao paulo	julia amalia azevedo antunes professora	luis pinto	92	3427000	vila carrao	-46,53628922	-23,55410957
+182	sao paulo	joao dias da silveira professor	sousa breves	80	3069060	vila zilda	-46,56386948	-23,53513908
+183	sao paulo	joao climaco da silva kruse professor	tuiuti	2965	3307005	tatuape	-46,57289886	-23,55139923
+184	sao paulo	irene ribeiro professora	rua coronel amaro sobrinho	303	3448120	vila carrao	-46,52236176	-23,55487061
+185	sao paulo	alvino bittencourt professor	francisco machado de campos	312	3406040	chacara california	-46,5464592	-23,54120064
+186	sao paulo	amelia de araujo dona	vacanga	415	3433025	vila fernandes	-46,53134935	-23,56046628
+187	sao paulo	aracy leme da veiga ravache professora	candido mendes de almeida	184	3908290	jardim novo carrao	-46,50743103	-23,5803299
+188	sao paulo	benedito estevam dos santos doutor	aguapei	831	3325000	vila santo estevao	-46,5546875	-23,55087662
+189	sao paulo	blanca zwicker simoes professora	mario teixeira inspetor	41	3335100	jardim analia franco	-46,56600189	-23,55594063
+190	sao paulo	frederico vergueiro steidel	atlantida	8	3421030	vila carrao	-46,54599762	-23,55512428
+191	sao paulo	erasmo braga	maria eugenia	190	3081030	tatuape	-46,57382965	-23,53373909
+192	sao paulo	congonhas do campo visconde de	tuiuti	2051	3307005	tatuape	-46,57463074	-23,54368973
+193	sao paulo	carlos escobar	adelino de almeida castilho	178	3073050	maranhao	-46,55641937	-23,53318024
+194	sao paulo	caramuru	rego barros	501	3460000	jardim vila formosa	-46,51810074	-23,56398964
+195	sao paulo	paulo novaes de carvalho professor	francisco marengo	475	3313000	tatuape	-46,55889893	-23,54153061
+196	sao paulo	pedro arbues coronel	lucinda gomes barreto	605	3440040	vila nova manchester	-46,5404573	-23,54598337
+197	sao paulo	salvador rocco professor	renato rinaldi	31	3426000	vila carrao	-46,54563364	-23,54837556
+198	sao paulo	joao borges professor	itapura	976	3310000	vila gomes cardim	-46,56600189	-23,54730034
+199	sao paulo	irene de lima paiva professora	lutecia	1966	3423000	vila carrao	-46,54087067	-23,56059074
+200	sao paulo	jose marques da cruz professor	arace	563	3362050	vila formosa	-46,54230881	-23,56166077
+201	sao paulo	benedita ribas f silveira professora	jose tavares de siqueira	198	3085030	parque sao jorge	-46,5680809	-23,53259087
+202	sao paulo	almerinda rodrigues mello professora	rua rei alberto da belgica	571	3381000	chacara belenzinho	-46,53411102	-23,5768795
+203	sao paulo	antonio candido barone	anga	110	3360000	vila formosa	-46,54896927	-23,57061005
+204	sao paulo	ascendino reis professor	tuiuti	2865	3307005	tatuape	-46,57300186	-23,55069923
+205	sao paulo	oswaldo catalano	filipe camarao	350	3065000	tatuape	-46,57949829	-23,53829956
+206	sao paulo	paulo cavalcanti albuquerque professor	fabio	167	3378060	chacara belenzinho	-46,53960037	-23,57500076
+207	sao paulo	orville derby	saigon	55	3360010	vila formosa	-46,54386902	-23,5680294
+208	sao paulo	santos amaro da cruz professor	barreira grande	795	3386000	jardim colorado	-46,52710111	-23,58413462
+209	sao paulo	pilar garcia vidal dona	agenor caldeira diniz pastor	48	3935080	jardim imperador zona leste	-46,49860001	-23,5848999
+210	sao paulo	maria lourdes n albergaria profa	jose mascarenhas	456	3515000	vila matilde	-46,53290176	-23,53930092
+211	sao paulo	marisa de mello profa	luis carlos doutor	1400	3505000	vila aricanduva	-46,53789902	-23,53380013
+212	sao paulo	olga marinovic doro profa	custodio lobo	29	3525080	jardim maringa	-46,51425934	-23,55250359
+213	sao paulo	rita julia de oliveira professora	mirandinha	881	3641000	penha de franca	-46,53556061	-23,53001022
+214	sao paulo	santos dumont	oito de setembro	73	3606030	penha de franca	-46,54850006	-23,52397919
+215	sao paulo	jose bartocci professor	serapiao sao	396	3664000	vila re	-46,49898911	-23,52753067
+216	sao paulo	luiz antonio fragoso prof	antonio estevao de carvalho	1778	3540100	cidade patriarca	-46,50669861	-23,5284996
+217	sao paulo	theodomiro emerique professor	uico	533	3621020	vila marieta	-46,52164584	-23,52190028
+218	sao paulo	gabriel ortiz professor	amador bueno da veiga	2932	3652000	penha de franca	-46,51789856	-23,52280045
+219	sao paulo	jamil pedro sawaya prof	palmeirina	189	3556010	cidade patriarca	-46,5018	-23,5414
+220	sao paulo	jose de campos camargo professor	severiano sao	217	3613030	vila santana	-46,53310327	-23,5181716
+221	sao paulo	bernardo rodrigues nogueira dom	joao maria ogno dom	481	3530050	vila matilde	-46,5187149	-23,53845024
+222	sao paulo	joao maria ogno osb dom	maria carlota	400	3647000	vila esperanca	-46,52848816	-23,52515984
+223	sao paulo	zalina rolim dona	luis carlos doutor	740	3505000	vila aricanduva	-46,54410172	-23,53499985
+224	sao paulo	esther frankel sampaio	rua tujuba	1475	3610000	penha de franca	-46,54199982	-23,51499939
+225	sao paulo	nossa senhora da penha	rua padre benedito de camargo	762	3604000	penha de franca	-46,5481581	-23,5211496
+226	sao paulo	antao padre	rua santo afonso	273	3632020	penha	-46,54816055	-23,52869034
+227	sao paulo	adalgisa moreira pires professora	marciano capella	257	3669030	vila re	-46,4932785	-23,5309391
+228	sao paulo	adelaide ferraz de oliveira profa	bento do sapucai sao	677	3542050	vila guilhermina	-46,51470184	-23,5326004
+229	sao paulo	maria aparecida de castro masiero professora	pangaua	210	3665010	vila re	-46,49914169	-23,52988052
+230	sao paulo	maria de carvalho senne professora	puquixa	SN	3656060	vila re	-46,50952911	-23,5250206
+231	sao paulo	custodio jose de mello almirante	alicante	483	3654010	vila granada	-46,51802826	-23,52388763
+232	sao paulo	barao de ramalho	amador bueno da veiga	604	3636000	penha de franca	-46,53905869	-23,52202988
+233	sao paulo	astolfo araujo deputado	itaquera	2417	3526000	jardim maringa	-46,4978981	-23,55060005
+234	sao paulo	maria augusta de avila profa	fernandes pereira	690	3565000	vila santa teresa zona leste	-46,49605179	-23,53862953
+235	sao paulo	infante dom henrique	teodoro mascarenhas	133	3515010	vila matilde	-46,53110123	-23,54199982
+236	sao paulo	jose pereira de queiroz dr	paranhos	264	3532020	vila nova savoia	-46,51509857	-23,5435009
+237	sao paulo	afonso penna junior prof	muana	31	3525090	jardim maringa	-46,5143013	-23,55170059
+238	sao paulo	souza queiroz barao de	gabriela mistral	520	3701010	penha de franca	-46,549811	-23,5165163
+239	sao paulo	jose talarico	waldemar carlos pereira	452	3533000	vila talarico	-46,51845169	-23,54200935
+240	sao paulo	exercito brasileiro	rebelo da silva	127	3685050	jardim sao nicolau	-46,47990036	-23,52630043
+241	sao paulo	joao ramacciotti prof	joao dorival cardoso doutor	189	3694060	parque das paineiras	-46,48130035	-23,53700066
+242	sao paulo	vital fogaca de almeida doutor	malacacheta	118	3713020	jardim jau zona leste	-46,54623032	-23,51160049
+243	sao paulo	caetano miele professor	francisco damante	61	3731000	vila londrina	-46,5343188	-23,5091598
+244	sao paulo	annita guastini eiras professora	ilha da figueira	151	3720040	vila paulistania	-46,5314673	-23,50218264
+245	sao paulo	irene branco da silva professora	quarunas	352	3734220	vila rui barbosa	-46,52555847	-23,51226044
+246	sao paulo	filomena matarazzo condessa	paranagua	472	3806000	ermelino matarazzo	-46,4765129	-23,501624
+247	sao paulo	eunice laureano da silva professora	florindo antonio baratella	12	3804065	parque boturussu	-46,48260117	-23,49926949
+248	sao paulo	valace marques professor	gentil braga	701	3737020	vila buenos aires	-46,51028061	-23,50753975
+249	sao paulo	benedita de rezende professora	assis ribeiro doutor	8402	3827000	ermelino matarazzo	-46,48197937	-23,48570061
+250	sao paulo	jose de carvalho padre	miguel sao	1888	3620001	vila marieta	-46,51218387	-23,51217672
+251	sao paulo	republica do uruguai	antonio roberto de almeida	149	3726110	engenheiro goulart	-46,5202435	-23,5000847
+252	sao paulo	thereza dorothea de arruda rego professora	conceicao do castelo	64	3681020	burgo paulista	-46,48823166	-23,5216198
+253	sao paulo	silva prado deputado	luis antonio rantin moutinho engenheiro	296	3672010	jardim popular	-46,50326157	-23,51565933
+254	sao paulo	marinha do brasil	ponte rasa	709	3896000	jardim ponte rasa	-46,4907472	-23,5106532
+255	sao paulo	ermelino matarazzo	abel tavares	SN	3810110	jardim belem	-46,4701585	-23,4928277
+256	sao paulo	miguel de cervantes y saavedra dom	candido mota	267	3759000	jardim penha	-46,49496078	-23,50522995
+257	sao paulo	mario kozel filho	tiete	49	8180410	vila seabra	-46,40768051	-23,49039078
+258	sao paulo	estela borges morato	tujumirim	419	8081180	jardim helena	-46,41970062	-23,48189926
+259	sao paulo	maximo de moura santos professor	parioto	249	8060030	vila jacui	-46,45495987	-23,49999046
+260	sao paulo	raul pilla deputado	rua sao bertoldo	449	8070380	parque cruzeiro do sul	-46,4570694	-23,49430084
+261	sao paulo	galileo emendabili escultor	jeribatuba	700	8246091	parada xv de novembro	-46,43627167	-23,52817917
+262	sao paulo	carlos gomes	antonio bernardo silvestre	203	8011390	vila sao silvestre zona leste	-46,44466019	-23,49798012
+263	sao paulo	dom pedro i	americo gomes da costa	59	8010120	vila americana	-46,44030152	-23,49421968
+264	sao paulo	armando gomes de araujo prof	alfredo moreira pinto	SN	8110220	vila simone	-46,4004097	-23,50145912
+265	sao paulo	alberto schweitzer	matacoes	35	8120180	jardim camargo novo	-46,39432907	-23,50468063
+266	sao paulo	plinio caiado de castro dr	joao batista santiago	SN	8150030	parque santa rita	-46,41067123	-23,52136993
+267	sao paulo	manoel de nobrega deputado	nordestina	1646	8042000	cidade nova sao miguel	-46,43947983	-23,5071907
+268	sao paulo	jose bonifacio andrada e silva jardim prof	andre furtado de mendonca	473	8191260	jardim romano	-46,38478088	-23,47957039
+269	sao paulo	mario reys comendador	jeribatuba	102	8246090	parada xv de novembro	-46,43455124	-23,53352928
+270	sao paulo	gabriel peliciotti professor	tito capinam	25	8062270	jardim sao carlos zona leste	-46,47592145	-23,51198086
+271	sao paulo	shinquichi agari	joao maximiano mafra	351	8030350	vila curuca	-46,42155075	-23,50139046
+272	sao paulo	dario de queiroz prof	luis atilio rossi	75	8010440	cidade nitro operaria	-46,43320847	-23,49452972
+273	sao paulo	diogo de faria dr	rosa de lima santa	591	8080000	parque paulistano	-46,4293296	-23,4867602
+274	sao paulo	ataulpho alves	maria susano polilo	485	8021300	vila rosaria	-46,43544006	-23,5025692
+275	sao paulo	antonio de padua vieira	maximiano correa dos santos	125	8122210	jardim das oliveiras	-46,37677002	-23,49389076
+276	sao paulo	eliza raquel macedo de souza profa	darci mano	97	8440400	vila odete	-46,40863037	-23,53585052
+277	sao paulo	emilia de paiva meira professora	porto xavier	172	8210170	vila carmosina	-46,45471954	-23,54087067
+278	sao paulo	geraldo domingos cortez professor	alvaro de mendonca	914	8215290	itaquera	-46,44438171	-23,53863907
+279	sao paulo	helena lombardi braga professora	virginia de miranda	138	8240010	jardim norma	-46,45288849	-23,52659035
+280	sao paulo	ascanio de azevedo castilho prof	lider	2168	8280005	cidade lider	-46,4740735	-23,5571765
+281	sao paulo	cidade de hiroshima	venancio lisboa	382	8280590	jardim nossa senhora do carmo	-46,4695015	-23,5678997
+282	sao paulo	apparecida rahal professora	fontoura xavier	542	8295300	itaquera	-46,45605087	-23,54965019
+283	sao paulo	decio ferraz alvim professor doutor	rua edmundo da cunha	95	8330230	jardim ester	-46,46260071	-23,62070084
+284	sao paulo	lina da costa couto profa	do pessego	1400	8260001	itaquera	-46,44694901	-23,5597496
+285	sao paulo	luiz rosanova professor	miguel achiole da fonseca	1447	8461110	jardim sao paulozona leste	-46,4032108	-23,5591711
+286	sao paulo	luzia de queiroz e oliveira profa	itaquera	5912	8285060	cidade lider	-46,4679985	-23,54599953
+287	sao paulo	jandyra vieira cunha barra profa	joao lopes de lima	1000	3976020	jardim sapopemba	-46,48910141	-23,61219978
+288	sao paulo	alcides boscolo professor	miguel ferreira de melo	50	8390000	jardim santo andre	-46,4447435	-23,6290845
+289	sao paulo	alfredo machado pedrosa prof	antonio previato	1385	3958010	cidade sao mateus	-46,48252869	-23,60128975
+290	sao paulo	alvares de azevedo	ignacio alves de mattos	281	8210210	itaquera	-46,45269012	-23,53877068
+291	sao paulo	maria cecilia da silva grohmann professora	jose alves dos santos	19	8220450	vila campanela	-46,46199036	-23,53968048
+292	sao paulo	maria da conceicao oliveira costa professora	lagoa tai grande	475	8290500	itaquera	-46,45793152	-23,55125046
+293	sao paulo	milton cruzeiro professor	alamandas	36	8225310	cidade antonio estevao de carvalho	-46,4678688	-23,53569031
+294	sao paulo	adelino jose da silva d azevedo prof	alberto de macedo	127	3973000	jardim santa adelia	-46,47968674	-23,62072563
+295	sao paulo	adhemar antonio prado professor	fernandes tourinho	133	8330120	jardim vera cruzzona leste	-46,46973038	-23,6168499
+296	sao paulo	pedro taques	carlos ruhl comandante	56	8410130	vila princesa isabel	-46,4143	-23,5451
+297	sao paulo	sebastiao faria zimbres professor	quinta do paco	45	8411280	vila marilena	-46,40893173	-23,55290031
+298	sao paulo	sao joao evangelista	forte cananeia	3	8340020	parque sao lourenco	-46,4632988	-23,60070038
+299	sao paulo	balbina netto velloso profa	francisco fernandes frazao	37	8452180	lajeado	-46,39717484	-23,53573227
+300	sao paulo	thales castanho de andrade professor	fontoura xavier	851	8295300	itaquera	-46,45449066	-23,54714012
+301	sao paulo	alfredo ashcar prof	jose francisco dos santos	641	3946010	jardim tiete	-46,4882	-23,5992
+302	sao paulo	andre nunes junior	salvador de paiva	145	8320200	parque sao rafael	-46,47447559	-23,62935527
+303	sao paulo	rita pinto de araujo professora	sapopemba	30500	8330180	cidade satelite santa barbara	-46,42409897	-23,61940002
+304	sao paulo	walter belian	sergio sao	33	3972000	jardim santa adelia	-46,48249817	-23,61310005
+305	sao paulo	reynaldo porchat professor	aliados	540	5082000	alto da lapa	-46,71642303	-23,52837372
+306	sao paulo	alfredo paulino	rua caativa	15	5059040	alto da lapa	-46,70912933	-23,53507996
+307	sao paulo	romeu de moraes	rua tonelero	407	5056000	vila ipojuca	-46,7044	-23,5316
+308	sao paulo	anhanguera	rua antonio raposo	87	5074020	lapa	-46,70569992	-23,52124977
+309	sao paulo	pereira barreto	rua nossa senhora da lapa	615	5072000	lapa	-46,70534897	-23,52463913
+310	sao paulo	antonio prado conselheiro	rua vitorino carmilo	621	1153000	barra funda	-46,65230179	-23,5318203
+311	sao paulo	canuto do val	avenida doutor abraao ribeiro	526	1133020	bom retiro	-46,65731759	-23,52042656
+312	sao paulo	pedro ii	rua marta	33	1155010	barra funda	-46,6632167	-23,531164
+313	sao paulo	joao kopke	alameda cleveland	331	1218000	campos eliseos	-46,64167023	-23,53236961
+314	sao paulo	reinaldo ribeiro da silva doutor	avenida embaixador macedo soares	10935	5095035	vila anastacio	-46,721241	-23,51190376
+315	sao paulo	jose candido de souza	rua diana	1070	5019000	perdizes	-46,68429947	-23,53750038
+316	sao paulo	arthur guimaraes	rua jaguaribe	354	1224000	vila buarque	-46,6489296	-23,54269028
+317	sao paulo	zuleika de barros martins ferreira professora	rua padre chico	420	5008010	perdizes	-46,683239	-23,529197
+318	sao paulo	deodoro marechal	rua dos italianos	405	1131000	bom retiro	-46,64307022	-23,52605057
+319	sao paulo	marina cerqueira cesar professora	rua acurua	241	5053000	vila romana	-46,7005943	-23,5378571
+320	sao paulo	alarico silveira doutor	rua conselheiro brotero	100	1154000	barra funda	-46,6554718	-23,52843094
+321	sao paulo	jose monteiro boanova professor	rua dalton	10	5086030	alto da lapa	-46,72246933	-23,52593231
+322	sao paulo	mauro de oliveira professor	rua pedro soares de almeida	134	5029030	vila anglo brasileira	-46,69514	-23,542176
+323	sao paulo	miss browne	rua padre chico	102	5008010	perdizes	-46,68062973	-23,53083992
+324	sao paulo	manuel ciridiao buarque professor	rua cerro cora	770	5061100	vila romana	-46,70370102	-23,5401001
+325	sao paulo	edmundo de carvalho doutor	rua tiberio	145	5042010	agua branca	-46,68849945	-23,52470016
+326	sao paulo	guilherme kuhlmann	largo da lapa	124	5069030	lapa de baixo	-46,70526886	-23,5150795
+327	sao paulo	prudente de moraes	praca cel fernando prestes	197	1124060	bom retiro	-46,6340891	-23,530129
+328	sao paulo	faria lima brigadeiro	rua cajaiba	420	5025000	vila pompeia	-46,68548965	-23,53860092
+329	sao paulo	emiliano augusto cavalcanti de albuquerque e melo	avenida diogenes ribeiro de lima	2001	5458001	alto de pinheiros	-46,71659851	-23,54240036
+330	sao paulo	alexandre von humboldt	raimundo pereira de magalhaes	1201	5092040	vila anastacio	-46,71147919	-23,50737
+331	sao paulo	fidelino de figueiredo professor	rua imaculada conceicao	71	1226020	vila buarque	-46,653057	-23,538971
+332	sao paulo	fernao dias paes	pedroso de morais	420	5420000	pinheiros	-46,6899	-23,5657
+333	sao paulo	antonio alves cruz professor	rua alves guimaraes	1511	5410002	pinheiros	-46,68273926	-23,55014038
+334	sao paulo	marina cintra professora	rua da consolacao	1289	1301100	consolacao	-46,65346232	-23,54993666
+335	sao paulo	roldao lopes de barros professor	rua colonia da gloria	580	4113001	jardim da gloria	-46,62742996	-23,58724976
+336	sao paulo	ludovina credidio peixoto	rua jesuino arruda	205	4532080	itaim bibi	-46,67250061	-23,5814991
+337	sao paulo	arcy major	jose de queiros aranha doutor	451	4106062	vila mariana	-46,63562012	-23,57869911
+338	sao paulo	maria jose	rua treze de maio	267	1327000	bela vista	-46,64653015	-23,55607033
+339	sao paulo	costa manso ministro	rua joao cachoeira	960	4535003	vila nova conceicao	-46,67660141	-23,58849907
+340	sao paulo	fabiano lozano maestro	rua humberto i	633	4018031	vila mariana	-46,64144897	-23,58580971
+341	sao paulo	victor oliva professor	alvilandia	409	5449070	vila madalena	-46,70729828	-23,54590034
+342	sao paulo	floriano marechal	rua dona julia	37	4117020	vila mariana	-46,6350192	-23,5881091
+343	sao paulo	rodrigues alves	avenida paulista	227	1311000	paraiso	-46,64619827	-23,56990051
+344	sao paulo	godofredo furtado	rua joao moura	727	5412001	jardim america	-46,67860031	-23,55920029
+345	sao paulo	carlos maximiliano pereira dos santos	jerico	256	5435040	sumarezinho	-46,6893	-23,5515
+346	sao paulo	caetano de campos consolacao	rua joao guimaraes rosa	111	1303030	consolacao	-46,64704895	-23,54961014
+347	sao paulo	ceciliano jose ennes professor	salvador cardoso	219	4533050	itaim bibi	-46,6853981	-23,58760071
+348	sao paulo	brasilio machado	rua dos moras	630	5434020	vila madalena	-46,69369888	-23,55649948
+349	sao paulo	martim francisco	domingos fernandes	583	4509011	vila nova conceicao	-46,67089844	-23,59219933
+350	sao paulo	alfredo bresser	sumidouro	66	5428010	pinheiros	-46,69620132	-23,56509972
+351	sao paulo	aristides de castro	leopoldo couto de magalhaes junior	306	4542000	itaim bibi	-46,67599869	-23,58699989
+352	sao paulo	napoleao de carvalho freire professor	rua irauna	815	4518061	indianopolis	-46,67444488	-23,60850306
+353	sao paulo	oswaldo aranha	avenida portugal	859	4559002	brooklin paulista	-46,68220139	-23,6154995
+354	sao paulo	jacyra moya martins carvalho professora	aristides guilhem almirante	38	5526000	jardim jussara	-46,74670029	-23,60359955
+355	sao paulo	keizo ishihara	mario gessullo	60	5540130	conjunto residencial butanta	-46,72430038	-23,57559967
+356	sao paulo	kyrillos doutor	antonio adib chammas	124	5530090	instituto de previdencia	-46,7199	-23,5767
+357	sao paulo	lourenco filho professor	tacaunas	181	4068020	planalto paulista	-46,64429855	-23,62059975
+358	sao paulo	mario de andrade	joaquim nabuco	570	4621003	brooklin paulista	-46,6812706	-23,62639046
+359	sao paulo	maria eugenia martins professora	alarico franco caiubi	651	5330012	jaguare	-46,74827957	-23,54320908
+360	sao paulo	flavia vizibeli pirro professora	abreu e lima padre	107	4358130	parque jabaquara	-46,65359879	-23,63870049
+361	sao paulo	guiomar rocha rinaldi professora	rua dom francisco cardoso ayres	285	5560010	jardim cambara	-46,78160095	-23,58989906
+364	sao paulo	henrique dumont villares	avenida presidente altino	1131	5323001	jaguare	-46,75109863	-23,54520035
+366	sao paulo	architiclino santos professor	rua maestro italo izzo	110	5325200	parque continental	-46,7588	-23,5415
+367	sao paulo	cesar martinez	irae	155	4075000	indianopolis	-46,65829849	-23,6012001
+368	sao paulo	clorinda danti professora	avenida corifeu de azevedo marques	2700	5340000	vila lageado	-46,7405014	-23,57049942
+369	sao paulo	daniel paulo verano pontes professor	avenida jose joaquim seabra	1187	5364000	rio pequeno	-46,75450134	-23,56889915
+372	sao paulo	luis elias attie	heitor antonio eiras garcia engenheiro	6821	5564200	jardim esmeralda	-46,78720093	-23,60169983
+374	sao paulo	emygdio de barros professor	avenida nossa senhora da assuncao	292	5359000	vila butanta	-46,74248886	-23,57344055
+375	sao paulo	ennio voss professor	avenida portugal	1220	4559002	brooklin paulista	-46,68492126	-23,61833954
+376	sao paulo	alberto levy professor	avenida indianopolis	1570	4062001	indianopolis	-46,65109634	-23,61230278
+377	sao paulo	alberto torres	avenida doutor vital brasil	1260	5503000	butanta	-46,71475983	-23,56886673
+378	sao paulo	ana rosa de araujo dona	rua eden	100	5619000	vila inah	-46,72720337	-23,58903885
+379	sao paulo	andronico de mello professor	rua theo dutra	33	5628000	jardim colombo	-46,7319603	-23,59819031
+381	sao paulo	adalgiza segurado da silveira professora	avenida professor gioia martins	686	5632020	jardim monte kemel	-46,73519897	-23,60059929
+383	sao paulo	adolfino de arruda castanho professor	professora ana maria lelis da silva	252	5361010	rio pequeno	-46,7492981	-23,56550026
+384	sao paulo	adolfo gordo senador	armando lombardi dom	223	5616010	vila progredior	-46,72069931	-23,58740044
+385	sao paulo	virgilia rodrigues alves de carvalho pinto	rua domingos barbieri	350	5531060	jardim previdencia	-46,72079849	-23,57691002
+386	sao paulo	pedro fonseca professor	rua rubens grisolia	65	5634150	jardim monte kemel	-46,74028015	-23,60284042
+387	sao paulo	thomazia montoro	rua doutor adolfo melo junior	156	5522030	ferreira	-46,73715374	-23,59276595
+388	sao paulo	adolfo tripoli professor	rua lourenco de azevedo	149	5624060	vila morse	-46,72980118	-23,59670067
+389	sao paulo	demosthenes marques professor	rua  alencar araripe	611	4253000	sacoma	-46,59719086	-23,61248016
+390	sao paulo	jacques maritain	rua laranjal	36	4250100	vila marte	-46,60002899	-23,62252998
+392	sao paulo	murtinho nobre doutor	rua ouvidor portugal	789	1551000	vila monumento	-46,61228943	-23,57368088
+393	sao paulo	adelina issa ashcar	rua alexandrino da silveira bueno	SN	1524010	cambuci	-46,6140098	-23,5652028
+394	sao paulo	julio de mesquita filho	rua agostinho gomes	601	4206000	ipiranga	-46,60517883	-23,57527924
+395	sao paulo	itauna visconde de	rua silva bueno	1412	4208001	ipiranga	-46,60136032	-23,59083939
+396	sao paulo	ataliba de oliveira professor	rua sao silvestre	400	4255080	sao joao climaco	-46,5945816	-23,62402916
+397	sao paulo	roosevelt presidente	rua sao joaquim	320	1508000	liberdade	-46,63788986	-23,5655098
+398	sao paulo	astrogildo silva professor	avenida patente	615	4243000	jardim patente	-46,58660126	-23,62767029
+399	sao paulo	centro atend socioed adolesc governador mario covas ci	condessa elisabeth de robiano	450	3074000	vila moreira	-46,5937721	-23,53049398
+400	sao paulo	seminario nossa senhora da gloria	rua moreira de godoi	399	4266060	ipiranga	-46,60969925	-23,59160042
+401	sao paulo	jose escobar professor	rua greenfeld	130	4218100	ipiranga	-46,60255814	-23,6012001
+402	sao paulo	mildre alvares biaggi professora	rua montalverne	91	4265060	vila sao jose ipiranga	-46,61640167	-23,58494949
+403	sao paulo	nossa senhora aparecida	rua alvaro fragoso	734	4223000	vila carioca	-46,59067154	-23,59840965
+404	sao paulo	francisco de assis reys	rua bom pastor	1560	4203002	ipiranga	-46,60723877	-23,59033012
+405	sao paulo	manuela lacerda vergueiro	rua tamuata	176	4255140	sao joao climaco	-46,59307861	-23,62194061
+406	sao paulo	odon cavalcanti professor	rua bambore	546	4278060	vila nair	-46,60821152	-23,60265923
+407	sao paulo	centro de detencao provisoria i belem	condessa elisabeth de robiano	900	3074000	vila moreira	-46,58802295	-23,5301327
+408	sao paulo	centro de det provisoria paulo gilberto de araujo	condessa elisabeth de robiano	900	3074000	vila moreira	-46,58788919	-23,53072364
+409	sao paulo	oscar thompson	avenida lins de vasconcelos	600	1538000	cambuci	-46,6218498	-23,5684
+410	sao paulo	gomes cardim professor	avenida lacerda franco	1641	1536001	cambuci	-46,62498093	-23,57714081
+411	sao paulo	alexandre de gusmao	rua  cisplatina	298	4211040	ipiranga	-46,60432816	-23,58818054
+412	sao paulo	eurydice zerbini professora	epiacaba	547	4257145	parque fongaro	-46,58890915	-23,63433075
+414	sao paulo	gualter da silva professor	rua anatole france	76	4283050	vila moinho velho	-46,60324097	-23,60630035
+416	sao paulo	maria odila guimaraes bueno professora	rua americo samarone	350	4284000	vila moinho velho	-46,60198975	-23,60623932
+417	sao paulo	teotonio alves pereira	rua arcipreste ezequias	734	4271060	vila sao jose ipiranga	-46,6190605	-23,5911863
+418	sao paulo	raul cardoso de almeida professor	rua nossa senhora das merces	1000	4165011	vila das merces	-46,60655975	-23,62631989
+419	sao paulo	reducino de oliveira lara professor	contos gauchescos	322	4369000	vila santa catarina	-46,66614151	-23,65257454
+420	sao paulo	unidade experimental de saude	juvenal gomes coimbra	10	3021050	catumbi	-46,59578218	-23,52973063
+423	sao paulo	raul fonseca	avenida inhaiba	92	4292050	saude	-46,60828583	-23,61186068
+424	sao paulo	dandolo frediani professor	avenida santa catarina	1025	4378300	vila mascote	-46,66453934	-23,64495087
+425	sao paulo	valentim gentil	rua francisco hurtado	303	4156040	agua funda	-46,62248993	-23,63249016
+426	sao paulo	paulo rossi professor	rua dos bogaris	200	4047020	mirandopolis	-46,64490128	-23,61031914
+427	sao paulo	lais amaral vicente professora	taquacetuba	214	4349210	vila parque jabaquara	-46,64967728	-23,65112305
+428	sao paulo	lygia de azevedo souza e sa professora	rua doutor mauricio de lacerda	322	4303191	sao judas	-46,63610077	-23,62579918
+429	sao paulo	julia collaco franca professora	arlindo vieira padre	3443	4166003	jardim vergueiro sacoma	-46,61034012	-23,6466198
+430	sao paulo	maria augusta de moraes neves professora	hugo vitor silva	508	4340040	americanopolis	-46,64239883	-23,66790962
+431	sao paulo	maria ribeiro guimaraes bueno professora	rua vuturuna	190	4147080	vila do bosque	-46,62990189	-23,62050056
+432	sao paulo	calixto de souza aranha professor	rua simao lopes	925	4167001	vila moraes	-46,61309052	-23,63320923
+433	sao paulo	helena lemmi professora	rua jua	246	4138020	saude	-46,63460159	-23,61230087
+435	sao paulo	heloisa carneiro professora	rua antonio covello	58	4383070	jardim jabaquara	-46,65845871	-23,6602993
+436	sao paulo	perola byington dona	rua doutor alcides de campos	150	4336160	americanopolis	-46,64208984	-23,66304016
+437	sao paulo	angelo mendes de almeida doutor	apace	SN	4347110	jardim oriental	-46,64649963	-23,64502907
+438	sao paulo	carlos augusto de freitas villalva junior doutor	avenida engenheiro armando de arruda pereira	506	4308000	jabaquara	-46,64437866	-23,63339043
+440	sao paulo	erico de abreu sodre	rua professora ludovina credidio peixoto	98	4139070	chacara inglesa	-46,63199997	-23,60589981
+441	sao paulo	joao maria pires de aguiar professor	marapes	17	4330070	vila parque jabaquara	-46,64797974	-23,65609932
+442	sao paulo	joao amos comenius	estevao mendonca	439	4372050	vila santa catarina	-46,65793991	-23,64965057
+443	sao paulo	julio ribeiro	rua doutor nestor alberto de macedo	117	4154020	vila moraes	-46,61959839	-23,62607956
+444	sao paulo	nelson fernandes deputado	ouricana	57	4317240	vila guarani z sul	-46,63505936	-23,64314079
+445	sao paulo	barroso almirante	avenida jabaquara	2875	4045004	jabaquara	-46,64390182	-23,6284008
+447	sao paulo	antonio alcantara machado	rua  americo ribeiro	97	4130050	vila gumercindo	-46,61648178	-23,60413933
+448	sao paulo	antonio castelar de franceschi	rua dom pero sardinha	115	4134050	vila gumercindo	-46,62388992	-23,60619926
+449	sao paulo	brasilio machado	rua afonso celso	311	4119001	vila mariana	-46,63510895	-23,59421921
+450	sao paulo	domingos quirino ferreira coronel	cafe	681	4311001	vila guarani z sul	-46,63687134	-23,63227081
+451	sao paulo	raul humaita villa nova coronel	rua maestro joao batista juliao	SN	4124090	vila firmiano pinto	-46,62291498	-23,5977
+452	sao paulo	jose vicente de azevedo conde	guararema	365	4136030	bosque da saude	-46,62612152	-23,60931969
+453	sao paulo	rui bloem	rua dos bogaris	244	4047020	mirandopolis	-46,64490128	-23,61030006
+454	sao paulo	artur saboia	rua taquarichim	22	4296100	vila vera	-46,60427856	-23,61881065
+455	sao paulo	pedro voss professor	rua jose de magalhaes	477	4026090	vila clementino	-46,64931187	-23,59826114
+457	sao paulo	leonor quadros	baltazar gomes de alarcao	SN	4417270	jardim miriam	-46,63640976	-23,68111992
+458	sao paulo	isabel princesa	ibirarema	341	4136000	bosque da saude	-46,62742996	-23,60963058
+459	sao paulo	edmea attab professora	oliverio girondo	127	4414170	vila clara	-46,63919067	-23,67316055
+460	sao paulo	lasar segall	rua doutor thirso martins	211	4120050	vila mariana	-46,63442146	-23,59572135
+461	sao paulo	joanna abrahao professora	rua comendador artur capodaglio	99	4410080	americanopolis	-46,64870834	-23,68097115
+462	sao paulo	renato braga professor	rua arthur bliss	465	5842020	jardim casa blanca	-47,02608109	-23,62738991
+464	sao paulo	joao silva professor	abilio cesar	243	5881020	jardim soraia	-46,77656937	-23,68033981
+465	sao paulo	dulce carneiro professora	grande madrugada	53	4401010	vila marari	-46,66436005	-23,66345024
+466	sao paulo	neyde apparecida sollitto professora	jose maria pinto zilli	696	5749300	jardim das palmas	-46,74604034	-23,62091064
+468	sao paulo	luiza marcelina branca chaib	estrada do alvarenga	5110	4476050	sete praias	-46,63536835	-23,71349716
+469	sao paulo	eugenio zerbini professor	piavunas	10	4473040	balneario sao francisco	-46,65089035	-23,70067024
+470	sao paulo	ceeja sinha pantoja	simao de lemos	SN	5816220	recanto santo antonio	-46,7406311	-23,6678791
+471	sao paulo	nipo brasileira	nestor dos santos lima	182	5743210	jardim jamaica	-46,75429153	-23,61251068
+472	sao paulo	maria petronila limeira dos milagres monteiro professora	mario lopes leao	1050	4754010	santo amaro	-46,71559143	-23,65134048
+474	sao paulo	davina aguiar dias professora	francisco de abreu	SN	5863100	jardim imbe	-46,76688004	-23,67679977
+475	sao paulo	beatriz de quadros leme professora	rua professor gastao ramos	3	5888160	parque fernanda	-46,78998947	-23,67494965
+476	sao paulo	leopoldo santana professor	rua manoel duarte oliveira	151	5859100	capao redondo	-46,76675034	-23,66856003
+477	sao paulo	juventina patricia sant ana professora	engenheiro emilio saad	50	4405020	cidade ademar	-46,65683365	-23,66770935
+478	sao paulo	cel jto a ee mexico	leonel da gama beles	82	4403360	vila joaniza	-46,65953064	-23,67324066
+479	sao paulo	martins pena	rua professor paulo mangabeira albernaz	150	4405030	americanopolis	-46,65607071	-23,66773033
+480	sao paulo	jose nascimento professor	luisa	48	4424030	cidade julia	-46,63837814	-23,68582916
+481	sao paulo	bento pereira da rocha professor	george benda	80	4475100	jardim rubilene	-46,63343048	-23,70340919
+482	sao paulo	zulmira cavalheiro faustino dona	luiz grassmann	216	5801050	jardim mirante	-46,73291016	-23,64563942
+483	sao paulo	eusebio de paula marcondes professor	domingas galleteri blotta	45	4455360	vila campo grande	-46,67739105	-23,68213081
+484	sao paulo	joaquim adolfo araujo professor	francisco madero	16	4445090	vila arriete	-46,68352127	-23,68289948
+485	sao paulo	hugo lacorte vitale deputado	cantanhede	190	5790150	pirajussara	-46,786129	-23,64388084
+486	sao paulo	mexico	leonel da gama beles	82	4403360	vila joaniza	-46,65953064	-23,67324448
+487	sao paulo	paulo eiro	rua padre jose maria	210	4753060	santo amaro	-46,71001816	-23,65393066
+488	sao paulo	zenaide lopes de oliveira godoy professora	celso dos santos	375	4658240	vila constanca	-46,66963196	-23,66692543
+489	sao paulo	joao evangelista costa professor	cupece	2672	4366000	jardim prudencia	-46,66059875	-23,66411018
+490	sao paulo	manuel borba gato	alvarenga	179	4462000	jardim da pedreira	-46,6711998	-23,69799995
+491	sao paulo	alberto conte professor	mario lopes leao	120	4754010	santo amaro	-46,70714951	-23,64990997
+492	sao paulo	luis arrobas martins doutor	joao elias	80	4726070	vila cruzeiro	-46,70996857	-23,63835907
+493	sao paulo	luiz gonzaga pinto e silva professor	geraldo fraga de oliveira	324	5843000	jardim sao luis	-46,73762131	-23,65294075
+494	sao paulo	plinio negrao	braganca paulista	575	4727001	vila cruzeiro	-46,71537018	-23,64164925
+495	sao paulo	kennedy presidente	francisco peixoto	54	5786110	vila pirajussara	-46,77077866	-23,63459969
+496	sao paulo	isaltino de mello professor	toninhas	73	4691040	vila gea	-46,68764114	-23,67439079
+497	sao paulo	saboia de medeiros padre ee	americo brasiliense	1297	4715002	chacara santo antonio zona sul	-46,69952011	-23,63301086
+498	sao paulo	maria peccioli giannasi professora	cataldo parrilha	179	4930055	jardim santa margarida	-46,75188828	-23,6805191
+499	sao paulo	paulo octavio de azevedo professor	antonio vieira mistura	440	4913110	jardim santa edwiges capela do socorro	-46,73826981	-23,67977905
+500	sao paulo	joao de deus cardoso de mello	francisco de almeida souza	192	4917070	jardim souza	-46,74832916	-23,68902016
+501	sao paulo	orlando mendes de moraes professor	baronesa	100	4941175	parque bologne	-46,78276825	-23,71869087
+502	sao paulo	beatriz lopes profa	rua guaruva	384	4807030	cidade dutra	-46,70069885	-23,7112999
+503	sao paulo	alberto salotti prof ee	carlos oberhuber	90	4836130	jardim floresta	-46,70589828	-23,74040031
+504	sao paulo	levi carneiro	avenida antonio carlos benjamin dos santos	2882	4856070	jardim myrna	-46,69620132	-23,76339912
+505	sao paulo	paulino nunes esposo	sadamu inoue	365	4865005	jardim casa grande	-46,72269821	-23,77639961
+506	sao paulo	alexandre marcondes filho senador	maria roschel schunck	690	4890400	jardim novo parelheiros	-46,72489929	-23,83049965
+507	sao paulo	prisciliana duarte de almeida dona	sadamu inoue	6820	4865005	jardim casa grande	-46,73199844	-23,82679939
+508	sao paulo	ernestino lopes da silva prof	rua miguel rocumback	SN	4892190	colonia zona sul	-46,69779968	-23,84840012
+509	sao paulo	hilton reis santos prof	marcilac engenheiro	8029	4893000	embura	-46,74047089	-23,87792969
+510	sao paulo	duarte leopoldo e silva dom	pinedo	577	4764001	socorro	-46,71469879	-23,67020035
+511	sao paulo	jose vieira de moraes prof	frederico rene de jaegher	206	4826000	rio bonito	-46,70100021	-23,71899986
+512	sao paulo	jose geraldo de lima prof ee	antonio mariano	254	4784000	jardim ipanema zona sul	-46,70803833	-23,68881035
+513	sao paulo	adolfo casais monteiro prof	manuel alves soares	659	4821270	parque colonial	-46,68579865	-23,72570038
+514	sao paulo	juventina marcondes domingues de castro profa	henrique muzzio	233	4857040	jardim varginha	-46,68471909	-23,78644943
+515	sao paulo	alfredo vianello gregorio comendador	rua felipe de veras	SN	5818260	jd sao luis	-46,73104095	-23,66515923
+516	sao paulo	amelia kerr nogueira professora	avenida  dos funcionarios publicos	1355	4962000	jardim horizonte azul	-46,78218842	-23,74094963
+517	sao paulo	clarina amaral gurgel profa	irara branca	SN	4852006	jardim shangrila zona sul	-46,66569901	-23,75869942
+518	sao paulo	vicente leporace	joao alves torres	555	4904120	jardim das flores	-46,73951585	-23,67373968
+519	sao paulo	maria amelia braz profa	amador arrais frei	100	4860050	jardim sao rafael	-46,71730042	-23,76099968
+520	sao paulo	herbert baldus	cancao da terra	100	4844560	jardim sao bernardo	-46,70446014	-23,75938034
+521	sao paulo	jeronymo monteiro	joaquim dos santos	539	4823080	jardim imperial	-46,69860077	-23,72640038
+522	sao paulo	sinha pantoja	simao de lemos	SN	5816220	recanto santo antonio	-46,74071884	-23,66783905
+525	sao paulo	joao batista de carvalho monsenhor	cristiania	13	5834090	jardim cris	-46,75265121	-23,67270088
+558	sao paulo	cel jto a ee loureiro junior professor	padre adelino	1330	3303000	quarta parada	-46,58124924	-23,54379654
+569	sao paulo	parque jardim helena	kumaki aoki	1390	8090370	jardim helena	-46,41585922	-23,47924042
+2224	sao paulo	cel jto a ee laerte ramos prof dr	anibal dos anjos carvalho	5	4810050	vila santa maria	-46,69490051	-23,71260071
+2567	sao paulo	salgado filho ministro	pedro goncalves meira	101	4433250	jardim sao carlos zona sul	-46,65628815	-23,68251038
+2568	sao paulo	francisco antonio martins junior professor	rocha medrano	SN	5881270	jardim sao bento novo	-46,78071976	-23,68186951
+2569	sao paulo	humberto alfredo pucca professor	mandira	120	5870150	jardim fraternidade	-46,7734108	-23,68022919
+2570	sao paulo	renata graziano de oliveira prado professora	arnaldo daniel	100	5877150	jardim guaruja	-46,78852844	-23,69408989
+2571	sao paulo	octalles marcondes ferreira	danca de anitra	1	5833080	jardim vaz de lima	-46,75888062	-23,66783905
+2572	sao paulo	helio motta doutor	canori	30	5765170	jardim olinda	-46,75572968	-23,62899971
+2573	sao paulo	assis chateaubriand	armando gonzaga	150	4434110	jardim maria luiza	-46,66685867	-23,68255997
+2574	sao paulo	josefina maria barbosa professora	avenida professor mario mazagao	31	4929080	alto da riviera	-46,76060104	-23,69800949
+2575	sao paulo	perillier mademoiselle	carolina michaelis	138	4829170	jardim das imbuias	-46,70840073	-23,72909927
+2609	sao paulo	francisco roswell freire	louis daquin	199	4843070	parque brasil	-46,69599915	-23,73950005
+2610	sao paulo	eulalia silva professora	amaro antonio de araujo	337	4931030	jardim santa margarida	-46,75513077	-23,67968941
+2611	sao paulo	lauro pereira travassos professor doutor	rua frei francisco ferreira	128	4430180	vila missionaria	-46,65266037	-23,68844032
+2612	sao paulo	joao sussumu hirata deputado	rua comendador antunes dos santos	936	5861260	capao redondo	-46,76443863	-23,67028999
+2623	sao paulo	genesio de almeida moura doutor	domingos arevalo	862	2879070	jardim damasceno	-46,6967	-23,447
+2624	sao paulo	miguel oliva feitosa professor	tarcon	479	5223070	jardim adelfiore	-46,74147415	-23,40838432
+2627	sao paulo	geraldo homero franca ottoni professor	bernardo rolim de moura	129	2955110	vila mirante	-46,71969986	-23,46759987
+2628	sao paulo	augusto baillot prof	susana dacre	8	3563220	jardim sao jose artur alvim	-46,49160004	-23,54789925
+2629	sao paulo	cesar dacorso filho prof	joao gomes de farias	205	8430540	jardim etelvina	-46,4210787	-23,52996377
+2630	sao paulo	jorge saraiva	arcelina teixeira da silva	SN	4858465	parque maria fernandes	-46,71672821	-23,76951027
+2637	sao paulo	honorio monteiro doutor	magondi	80	4961150	vila calu	-46,78953934	-23,73587036
+2638	sao paulo	francisco de paula vicente de azevedo	jivaros	72	4941110	parque bologne	-46,77568817	-23,70099068
+2639	sao paulo	carlos de moraes andrade prof	belmira marin dona	2440	4846000	parque brasil	-46,6886	-23,7505
+2640	sao paulo	carlos ayres prof	belmira marin dona	595	4846010	parque brasil	-46,6941	-23,736
+2641	sao paulo	giulio david leone prof	ribeira do vouga	91	4830180	jardim presidente	-46,70249939	-23,73399925
+2642	sao paulo	miguel kruse dom	rua sao jose do campestre	30	3728000	jardim danfer	-46,5081613	-23,4972618
+2643	sao paulo	francisco mesquita jornalista	wenceslau guimaraes	5	3823000	parque cisper	-46,4927114	-23,48938032
+2644	sao paulo	luigi pirandello	laranja da china	50	8050710	jardim das camelias	-46,46284487	-23,51240181
+2645	sao paulo	pedro viriato parigot de souza engenheiro	benjamin capusso	836	8031760	vila curuca	-46,42507172	-23,50616074
+2646	sao paulo	forca aerea brasileira	armando mamede junior	450	8150070	parque santa rita	-46,4159317	-23,51531029
+2647	sao paulo	antonio de oliveira camargo professor	rua carlo grazia engenheiro	500	3683150	vila uniao zona leste	-46,48236084	-23,52182961
+2648	sao paulo	paulo sarasate governador	inacio pinto lima	199	8490020	conjunto residencial prestes maia	-46,4072113	-23,56666946
+2649	sao paulo	guilherme de almeida	parada pinto	2355	2611003	vila nova cachoeirinha	-46,64870071	-23,46969986
+2656	sao paulo	manuel bandeira	julio cesar leal	15	5208000	vila perus	-46,75542068	-23,41360092
+2657	sao paulo	mozart tavares de lima professor	marcos goncalves correa	21	8340320	jardim vila carrao	-46,45899963	-23,61870003
+2658	sao paulo	branca castro canto e melo professora	costa barros	2521	3210001	sitio pinheirinho	-46,54341888	-23,60144997
+2659	sao paulo	oswaldo guerner gonzalez professor	rua caruso	314	3211060	vila alpina	-46,55424118	-23,60191917
+2660	sao paulo	luis gonzaga carvalho melo professor	antonio de toledo lara filho	116	3678050	vila sao francisco zona leste	-46,48965073	-23,51609039
+2661	sao paulo	anne frank	rua  guira acangatara	149	3719000	jardim santo onofre	-46,52775955	-23,49860001
+2662	sao paulo	geraldo campos moreira professor doutor	mutuipe	10	3819090	parque cisper	-46,49860001	-23,49806976
+2663	sao paulo	heckel tavares	jose artur nova doutor	2737	8090000	parque paulistano	-46,42475891	-23,47489929
+2664	sao paulo	astrogildo arruda prof	domingos do sacramento	275	8040130	vila carolina	-46,44623947	-23,50602913
+2665	sao paulo	anisio teixeira professor	rio uruu	9	8215580	itaquera	-46,44478989	-23,5469799
+2666	sao paulo	humberto dantas	serra do mar	50	8410160	vila princesa isabel	-46,41569901	-23,54910088
+2667	sao paulo	rocca dordall	rua doutor rodrigues de almeida	143	8411350	vila buenos aires	-46,4182	-23,5536
+2668	sao paulo	joaquim eugenio lima neto	chapada diamantina	521	8450150	lajeado	-46,40242004	-23,54361916
+2669	sao paulo	ernestina del buono trama professora	feliciano de mendonca	418	8460365	jardim sao paulozona leste	-46,39870071	-23,55311966
+2670	sao paulo	cosme de faria major	anibal thomaz gomes	87	8431191	jardim nova guaianazes	-46,41868973	-23,5380497
+2671	sao paulo	martin egidio damy	paulo garcia aquiline	406	2844120	brasilandia	-46,68640137	-23,46980095
+2689	sao paulo	duque de caxias	rua coronel joao de oliveira melo	967	3474020	vila antonieta	-46,5118103	-23,57669067
+2690	sao paulo	tide setubal	jaime barcelos	535	8060200	vila jacui	-46,44890976	-23,5013504
+2691	sao paulo	henrique smith bayma dr	salsa parrilha	SN	8180310	jardim maia	-46,41022873	-23,48727989
+2692	sao paulo	cesar marengo	joaquim peixoto	108	3382167	chacara belenzinho	-46,52872849	-23,57900047
+2693	sao paulo	francisco da costa guedes	avenida das cerejeiras	2435	2124002	jardim japao	-46,57281113	-23,50073051
+2694	sao paulo	elza saraiva monteiro profa	avenida mariana caligiori ronchetti	1200	2650000	jardim peri	-46,65950012	-23,45820045
+2695	sao paulo	francisco joao de azevedo padre	rua alcindo ferreira	2	4803170	jardim cruzeiro	-46,70891571	-23,71508598
+2696	sao paulo	oswald de andrade	jose carlos dos santos marques	300	4920010	jardim herculano	-46,76021957	-23,69219971
+2697	sao paulo	vicente de paulo dale coutinho gal exe	giovanni gabrieli	712	4844200	jardim icarai	-46,70339966	-23,74819946
+2698	sao paulo	lourival gomes machado professor	estrada de santo amaro	55	5544000	jardim educandario	-46,76660156	-23,58909988
+2699	sao paulo	almeida junior professor	avenida engenheiro heitor antonio eiras garcia	1874	5588001	jardim maria luiza	-46,74969864	-23,58270073
+2700	sao paulo	laerte ramos de carvalho prof dr	anibal dos anjos carvalho	5	4810050	vila santa maria	-46,6949	-23,7126
+2701	sao paulo	luiz simioni sobrinho professor	francisco lopes pinto	282	4649110	jardim prudencia	-46,67599869	-23,65517044
+2702	sao paulo	messias freire professor	ibi	18	5792070	jardim leonidas moreira	-46,77576065	-23,64352036
+2703	sao paulo	samuel morse professor	jose estima filho	SN	4960020	parque santa barbara	-46,7903595	-23,72841072
+2711	sao paulo	candido de oliveira prof	luiz pinelli	29	4883200	jardim aladim	-46,73501994	-23,80700246
+2712	sao paulo	alcides da costa vidigal	rua geremia lunardelli	370	5537100	jardim peri peri	-46,7353	-23,5864
+2713	sao paulo	homero dos santos forte professor	herbert spencer	113	5663010	paraisopolis	-46,72356033	-23,61598015
+2714	sao paulo	alvaro de souza lima doutor	rua memorial de aires	478	4194280	jardim sao saverio	-46,61228943	-23,65307999
+2715	sao paulo	cafe filho presidente	gastao raul de forton bousquet	401	5797000	jardim ipe	-46,77096176	-23,65572929
+2717	sao paulo	antonio carlos ferreira nobre professor	agostinho dos santos	235	5125050	parque sao domingos	-46,73860168	-23,50297928
+2718	sao paulo	ubaldo costa leite doutor	jose da costa pereira	70	2851130	jardim guarani	-46,68778992	-23,46017075
+2719	sao paulo	paulo nogueira filho	adao goncalves	70	5105010	vila dos remedios	-46,75450134	-23,50971985
+2720	sao paulo	edgard pimentel rezende professor	jeronimo souto maior	120	2834090	vila nina	-46,69309998	-23,47570038
+2721	sao paulo	crispim de oliveira professor	joaquim de sousa brito	122	2816030	jardim paulistano zona norte	-46,7073	-23,4595
+2722	sao paulo	ana siqueira da silva	mauro de araujo ribeiro	678	5182000	cidade dabril	-46,74451828	-23,4496994
+2723	sao paulo	carlos frederico werneck lacerda jornalista	conceicao do norte	906	2976200	vila zat	-46,7154808	-23,47607994
+2724	sao paulo	milton da silva rodrigues professor	joao cordeiro	929	2960000	moinho velho	-46,70487976	-23,49130058
+2725	sao paulo	cacilda becker	rua capitao jose amaral	44	2832110	vila portuguesa	-46,69200134	-23,48010063
+2726	sao paulo	arlete terezinha pizao profa	rodrigues alvarenga	308	2471160	imirim	-46,65110016	-23,48329926
+2727	sao paulo	orlando horacio vita professor	rua diogo cabrera	424	2467060	imirim	-46,64464951	-23,49109077
+2728	sao paulo	daily resende franca professor	rua maria curupaiti	706	2452001	vila ester	-46,643549	-23,5012783
+2729	sao paulo	yolando mallozzi	atlantico meridional	116	2474125	vila roque	-46,65829849	-23,47730064
+2730	sao paulo	luzia godoy profa	ausonia	143	2308050	vila mazzei	-46,60649872	-23,476511
+2731	sao paulo	veridiana camacho carvalho gomes profa	carlos dos santos	781	2234000	jardim brasil zona norte	-46,57300186	-23,47979927
+2732	sao paulo	justino cardoso dr	joao souto maior	465	2218000	vila medeiros	-46,58580017	-23,48760033
+2733	sao paulo	joaquim gouveia franco junior deputado	vitor hess	51	3253005	vila industrial	-46,53518544	-23,61125071
+2734	sao paulo	didio da silveira baldy prof	sarazate senador	SN	3270020	vila tolstoi	-46,52207184	-23,60062027
+2750	sao paulo	italo betarello	andresa	120	2995140	jardim sao joao jaragua	-46,736	-23,4503
+2751	sao paulo	eduardo carlos pereira	inconfidencia mineira	576	3911000	vila rica	-46,51808167	-23,58033943
+2752	sao paulo	alceu guerner gonzalez prof	cornelio de arzao	1786	8140550	jardim miriam	-46,39580917	-23,51758003
+2753	sao paulo	maria augusta saraiva doutora	rua major diogo	200	1324000	bela vista	-46,643104	-23,554883
+2754	sao paulo	augusto do amaral deputado	eulo maroni	244	5338100	vila lageado	-46,74689865	-23,55080032
+2755	sao paulo	caetano de campos	rua pires da mota	99	1529001	aclimacao	-46,63021851	-23,56509018
+2756	sao paulo	rubens do amaral deputado	rua filipe cardoso	554	4149080	jardim da saude	-46,61711121	-23,61701965
+2757	sao paulo	jose maria whitaker doutor	arnaldo dante padre	250	4182070	jardim santa cruz sacoma	-46,59658051	-23,63991928
+2758	sao paulo	carlos pasquale professor	lages marques	219	4162000	vila moraes	-46,61669922	-23,62829971
+2759	sao paulo	arthur wolff netto professor	azor silva	153	4326010	vila fachini	-46,63582993	-23,6608696
+2760	sao paulo	miguel roque professor	domiciano leite ribeiro	455	4317000	vila guarani z sul	-46,63222122	-23,64291
+2761	sao paulo	salvador moya	itaiara	51	4320110	cidade vargas	-46,63539886	-23,6497097
+2762	sao paulo	jose joaquim cardoso de mello neto professor	teixeira lopes	95	5893200	jardim das rosas zona sul	-46,78865814	-23,65757942
+2763	sao paulo	vicente rao professor	rua pastor rubens lopes	368	4409020	americanopolis	-46,65084076	-23,67580032
+2764	sao paulo	eurico gaspar dutra marechal	hipolito cordeiro	SN	5843240	jardim sao luis	-46,73495102	-23,65111923
+2765	sao paulo	francisco de paula conceicao junior professor	domingos sequeira	40	5791050	jardim mitsutani	-46,78359985	-23,64871025
+2766	sao paulo	adriao bernardes prof	itaquaquecetuba	9953	4872060	jardim santa tereza	-46,64612961	-23,7732296
+2767	sao paulo	callia maestro	rua jose rufino da silva	249	4812240	jardim lallo	-46,68669891	-23,70940018
+2768	sao paulo	joaquim alvares cruz prof	rua dois	2	4896020	barragem	-46,6507988	-23,87789917
+2769	sao paulo	jose lins do rego	m boi mirim	2463	4905022	jardim das flores	-46,75534821	-23,67580032
+2770	sao paulo	maria luiza de andrade martins roque profa	marcelino nogueira junior	117	4851280	jardim eliana	-46,66839981	-23,75300026
+2771	sao paulo	vera athayde pereira profa	leconte de lisle	300	4831130	jardim vista alegre	-46,71250153	-23,73800087
+2797	sao paulo	hosp infantil candido fontoura cl hosp	siqueira bueno	1757	3173010	belenzinho	-46,58561476	-23,55213935
+2816	sao paulo	julieta terlizzi bindo profa	antonio ribeiro macedo	115	3918055	vila bancaria	-46,5221	-23,5877
+2817	sao paulo	gastao strang professor	mafalda	405	3377010	chacara belenzinho	-46,54644012	-23,57266998
+2818	sao paulo	jaime cortesao	jorge washington	53	3437080	vila carrao	-46,52777863	-23,56019974
+2819	sao paulo	charles de gaulle	rua antonio joao medeiros	810	8140060	jardim ina	-46,3981967	-23,50960089
+2820	sao paulo	dulce leite da silva profa	paulo martins garro	25	8121080	jardim sao luis zona leste	-46,38684845	-23,49674988
+2821	sao paulo	martha figueira netto da silva professora	rua abeylard queiros	195	4155010	vila agua funda	-46,62574005	-23,63101959
+2822	sao paulo	roberto mange	avenida carlos alberto bastos machado	50	4856080	jardim myrna	-46,6944	-23,7707
+2823	sao paulo	ana luiza florence borges profa	jose paulo candido	25	4892010	jardim silveira	-46,71469879	-23,84840012
+2827	sao paulo	maximo ribeiro nunes professor	rua soldado antonio romano de oliveira	174	2176020	parque novo mundo	-46,57357025	-23,5121994
+2828	sao paulo	luiz lazaro zamenhof dr	eurico sodre	944	2215010	vila medeiros	-46,58119965	-23,48904991
+2829	sao paulo	lucio de carvalho marques professor	jacira ferrari de oliveira	39	3810060	jardim matarazzo	-46,47499847	-23,48749924
+2830	sao paulo	quintiliano jose sitrangulo prof	arraial da anta	325	8270090	vila carmosina	-46,46165848	-23,5574894
+2831	sao paulo	carlos henrique liberalli professor	maria ferraz do amaral dona	128	8390255	jardim sao francisco	-46,4473773	-23,6255264
+2832	sao paulo	chibata miyakoshi	eduardo de martino	72	3966020	cidade sao mateus	-46,47829819	-23,59530067
+2833	sao paulo	hermano ribeiro da silva	travessa prof  dalmo belfort de mattos	SN	4416330	jardim miriam	-46,63613129	-23,67785072
+2834	sao paulo	ayres neto doutor	jose flavio pereira	173	4474220	parque doroteia	-46,64366913	-23,7009201
+2835	sao paulo	ibrahim nobre	rua professor djalma bento	155	4678020	jardim luanda	-46,68090057	-23,66630936
+2836	sao paulo	joao ernesto de souza campos professor	rua monsenhor jose marinoni	22	4430350	vila missionaria	-46,64838028	-23,69087029
+2837	sao paulo	francisco brasiliense fusco doutor	jaracatia	941	5754071	jardim umarizal	-46,75111008	-23,62297058
+2840	sao paulo	jose oscar abreu sampaio	luisa maria rosa	11	5264050	vila sulina	-46,7842865	-23,44584465
+2841	sao paulo	victorio americo fontana prof	nepomuceno	117	3940090	jardim sao gabriel	-46,50080109	-23,59539986
+2842	sao paulo	nello lorenzon	rua sao goncalo do sapucai	61	3891050	ponte rasa	-46,48934937	-23,51217079
+2843	sao paulo	melvin jones	leandro de souza	65	4256050	sao joao climaco	-46,5945015	-23,62816048
+2844	sao paulo	benedito ferreira de albuquerque prof	benjamim diemar	266	4891070	vila roschel	-46,73696136	-23,83917046
+2845	sao paulo	regina miranda brant de carvalho profa	filomena belmont	75	4891370	engenheiro marsilac	-46,70637894	-23,90814972
+2846	sao paulo	elyo ferreira de castro professor	bacio de filicaia	147	4914060	jardim figueira grande	-46,74604034	-23,67736053
+2888	sao paulo	alfredo gomes prof	maria de sao jose cunha	108	2617050	vila bela vista zona norte	-46,6576004	-23,46759987
+2889	sao paulo	cassio ciampolini deputado	guapeba	15	8235160	vila verde	-46,4525795	-23,51708984
+2890	sao paulo	arlindo pinto da silva prof	marcion	274	8041500	jardim lajeado	-46,43880844	-23,51457024
+2897	sao paulo	osmar bastos conceicao professor	pinheiro de faria	40	2806040	jardim maristela	-46,70019913	-23,47470093
+2898	sao paulo	orlando silva	pires rodovalho	45	8311230	parque sao rafael	-46,46723432	-23,63401391
+2930	sao paulo	leonor rendesi professora	boaventura rodrigues da silva	1000	3801120	parque boturussu	-46,48899078	-23,49942017
+2931	sao paulo	pedro de alcantara marcondes machado professor	manoel dos santos braga	391	3807320	vila robertina	-46,47631073	-23,50231934
+2932	sao paulo	maria augusta correa professora	rua professor leoncio correia	SN	3720190	cangaiba	-46,53114853	-23,50497517
+2933	sao paulo	clovis de oliveira professor doutor	lira cearense	869	5763450	jardim santa efigenia	-46,75577927	-23,64045906
+2934	sao paulo	ronaldo garibaldi peretti professor	antonio jose bentes	691	5891160	jardim irapiranga	-46,78865814	-23,65778923
+2935	sao paulo	guiomar novaes	leonidas moreira	21	4653180	vila inglesa	-46,67464066	-23,66296005
+2936	sao paulo	joiti hirata	luar do sertao	165	5879450	chacara santa maria	-46,79251099	-23,68704033
+2937	sao paulo	antonio manoel alves de lima	pietro casella	7	5815055	jardim sao joao	-46,73701859	-23,66013908
+2938	sao paulo	manoel tabacow hidal professor	manuel de macedo	247	4459290	pedreira	-46,67134094	-23,69510078
+2939	sao paulo	carolina cintra da silveira professora	luis da fonseca galvao	226	5855300	parque maria helena	-46,76654816	-23,66222
+2940	sao paulo	luis magalhaes de araujo professor	m boi mirim	3583	4905023	jardim das flores	-46,76971054	-23,68392944
+2975	sao paulo	santo dias da silva	rua alfredo cortes	32	4814070	jardim maringa	-46,68104935	-23,72122002
+2981	sao paulo	amador arruda mendes prof	sylvio torres	290	3589010	conjunto habitacional padre jose de anchieta	-46,48770142	-23,55290031
+2982	sao paulo	otto de barros vidal professor	joaquim jose de lima	13	5160120	jaragua	-46,75830078	-23,48089981
+2983	sao paulo	guilherme giorgi comendador	sebastiao marchesoni	50	3909070	jardim das rosas zona leste i	-46,5095034	-23,58626625
+2984	sao paulo	maria lourdes rosario negreiros profa	joaquim felicio	149	3932050	cidade centenario	-46,50040054	-23,58379936
+2985	sao paulo	jose de oliveira orlandi	adriano bertozzi	1195	8265000	jardim helian	-46,45709991	-23,57460022
+2986	sao paulo	maria ferraz de campos profa	teodoro sao	453	8290005	vila carmosina	-46,4539	-23,5551
+2987	sao paulo	flavio jose osorio negrini professor	casimiro	66	5766300	jardim olinda	-46,75210953	-23,62957954
+2988	sao paulo	alberto badra doutor	josefina moretti	90	5840060	vila das belezas	-46,74040985	-23,64414024
+2989	sao paulo	duglas teixeira monteiro professor	avenida professor oscar campiglia	529	5762230	parque ipe	-46,76174164	-23,64086914
+2990	sao paulo	maria juvenal homem de mello profa	miraflores	95	4842470	jardim castro alves	-46,68188858	-23,7403698
+2991	sao paulo	emilio warwick kerr pastor	walter sgarbi	700	4845270	jardim reimberg	-46,6957016	-23,75390053
+2992	sao paulo	josephina cintra damiao professora	jararau	152	4943120	chacara nani	-46,79233932	-23,70952034
+2993	sao paulo	erodice pontes de queiroz rev	av professor hermogenes de freitas leitao filho	1500	4865000	jardim casa grande	-46,71469879	-23,78520012
+2994	sao paulo	samuel wainer	jose do rio preto sao	71	4840460	conjunto habitacional brigadeiro faria lima	-46,68379974	-23,7548008
+3078	sao paulo	jose americo de almeida doutor	ramon bayeu	21	5363200	vila nova alba	-46,7463	-23,5734
+3098	sao paulo	oswaldo aranha bandeira de mello prof	sena freitas padre	196	3568020	parque artur alvim	-46,48414993	-23,54445076
+3099	sao paulo	mattathias gomes dos santos rev	manuel duarte ferro	SN	8190470	vila itaim	-46,39300919	-23,48506927
+3100	sao paulo	francisco de assis pires correa professor	rua silvianopolis	20	8255410	conjunto residencial jose bonifacio	-46,43368912	-23,54937935
+3101	sao paulo	joao cruz costa professor	avenida jose maria da silva	SN	5348020	jaguare	-46,74160004	-23,54569054
+3102	sao paulo	julia della casa paula professora	george bernanos	311	4432110	jardim sao jorge	-46,66202164	-23,68330956
+3110	sao paulo	jorge duprat figueiredo	antonio lombardo	140	3572230	jardim santa terezinha zona leste	-46,49919891	-23,57349968
+3111	sao paulo	mario lopes leao dr	jose mendes netto	57	4883270	jardim dos alamos	-46,73799896	-23,81209946
+3112	sao paulo	jacob thomaz itapura de miranda prof	antonio felipe filho	93	4845000	jardim somara	-46,68980026	-23,74950027
+3113	sao paulo	herculano de freitas professor	olivier bachelin	7	4929170	alto da riviera	-46,76655197	-23,70217705
+3118	sao paulo	amelia moncon ramponi professora	rua sao constantino	180	4456000	jardim santa cruz	-46,68101883	-23,68391991
+3126	sao paulo	zoraide de campos helu professora	giovani paladino	76	5265020	jardim jaragua	-46,7887001	-23,45000076
+3127	sao paulo	nagib izar	monte cardoso	671	3474000	vila antonieta	-46,51440811	-23,56705093
+3128	sao paulo	octacilio de carvalho lopes prof	waldemar tietz	850	3589000	conjunto habitacional padre jose de anchieta	-46,48619843	-23,5496006
+3129	sao paulo	orestes rosolia prof	jeronimo machado padre	200	3590000	conjunto habitacional padre manoel da nobrega	-46,47991943	-23,54331017
+3130	sao paulo	adolpho pluskat prof	cafe do brasil	130	8161225	jardim dos ipes	-46,41359711	-23,49987411
+3131	sao paulo	joao prado margarido prof	carmine monetti	81	8111160	jardim das oliveiras	-46,38291931	-23,49155998
+3132	sao paulo	salim farah maluf professor	jardim tamoio	100	8255010	conjunto residencial jose bonifacio	-46,43560028	-23,55477905
+3133	sao paulo	fadlo haidar	murmurios da tarde	200	8253580	conjunto residencial jose bonifacio	-46,43349838	-23,56303978
+3134	sao paulo	wilson roberto simonini prof	joao correia de magalhaes	200	8151260	parque dom joao neri	-46,40494537	-23,51947212
+3135	sao paulo	samuel klabin	rua boris alexandre	189	5387020	vila dalva	-46,76549911	-23,56739998
+3136	sao paulo	pedro calil padis professor	rodrigues montemor	395	4387002	cidade domitila	-46,6489296	-23,66311073
+3137	sao paulo	joao ernesto faggin doutor	fulfaro	141	4414200	vila clara	-46,6325798	-23,67437935
+3138	sao paulo	david nasser jornalista	severiano cardoso	280	5894430	jardim macedonia	-46,78958893	-23,65360069
+3139	sao paulo	antonio bernardes de oliveira professor	jean marot	12	4917040	jardim sao joaquim	-46,75017929	-23,6882
+3140	sao paulo	david zeiger	satelite japetus	30	4858520	jardim maria amalia	-46,71450043	-23,77569962
+3141	sao paulo	saverio fittipaldi	rufino zado	SN	4853070	jardim noronha	-46,67660141	-23,76860046
+3142	sao paulo	aurelio campos deputado	olimpio de oliveira chalegre	137	4777040	vila da paz	-46,69649887	-23,69300079
+3143	sao paulo	carlos cattony	professor herman von ihering	11	4870423	jardim casa grande	-46,74060059	-23,77375984
+3144	sao paulo	euripedes simoes de paula prof	maria pape	30	4852218	jardim lucelia	-46,67279816	-23,76230049
+3145	sao paulo	mario arminante prof	jose roschel rodrigues	146	4880130	recanto campo belo	-46,73249817	-23,79170036
+3146	sao paulo	antonio pereira lima dr	jusa	1414	4889000	parelheiros	-46,75120163	-23,82159996
+3230	sao paulo	dirce pastore donato profa	bom jesus da cachoeira	456	2236020	parque edu chaves	-46,56629944	-23,4727993
+3231	sao paulo	eduardo gomes brigadeiro	leoncio da costa vieira	137	3463070	jardim piqueroby	-46,52916207	-23,57252026
+3232	sao paulo	argeo pinto dias eng	falcao peregrino	22	4857350	jardim sabia	-46,69070053	-23,78300095
+3233	sao paulo	antonio aggio	hercilia goncalves dos santos	16	4912040	guarapiranga	-46,74457932	-23,68498039
+3243	sao paulo	jose barbosa de almeida professor	elisio teixeira leite	3260	2810000	sitio morro grande	-46,7092514	-23,46940994
+3244	sao paulo	pedro moreira matos prof	rafael zimbardi	38	8071130	jardim nair	-46,44845963	-23,49057007
+3246	sao paulo	flaminio favero professor	avenida general penha brasil	3001	2673000	vila nova cachoeirinha	-46,67810059	-23,45050049
+3247	sao paulo	carlos borba professor	rua joana pedroso dos santos	101	2990060	jardim rodrigo	-46,72665787	-23,42653847
+3248	sao paulo	joao nogueira lotufo professor	jose marcos de albuquerque	18	5171400	jardim santa monica	-46,74964523	-23,47830772
+3249	sao paulo	antonio sylvio da cunha bueno	andrea feliciani	501	3591020	conjunto habitacional padre manoel de paiva	-46,48080063	-23,54840088
+3250	sao paulo	maria aparecida machado julianelli	pedro marciano de alcantara	18	3726010	engenheiro goulart	-46,51436996	-23,50255966
+3251	sao paulo	francisco pereira de souza filho prof	goncalves ribeiro	50	8080090	parque paulistano	-46,4308815	-23,48265076
+3252	sao paulo	tercio moraes pereira rev	pedro soares de andrade	775	8021040	vila rosaria	-46,43540955	-23,50180054
+3253	sao paulo	julio dinis	r jucaral	170	8246106	pda quinze	-46,43275833	-23,53219986
+3254	sao paulo	luis gonzaga travassos da rosa	afonso vidal	600	5723330	jardim santo antonio	-46,7325592	-23,63999939
+3255	sao paulo	arnaldo laurindo professor	altino alves de abreu	110	5822000	parque santo antonio	-46,75138855	-23,66340065
+3256	sao paulo	tiago alberione padre	angelo cristianini	1434	4424000	cidade julia	-46,64374924	-23,69054985
+3257	sao paulo	esther garcia profa ee	rua antonio carlos benjamim dos santos	858	4856070	jardim myrna	-46,69739914	-23,74780083
+3347	sao paulo	provincia de nagasaki	dorandia	158	2234080	jardim brasil zona norte	-46,57120132	-23,4776001
+3348	sao paulo	maria de lourdes almeida sinisgalli profa	av professor hermgenes de freitas leitao	4946	4865000	parelheiros	-46,71490097	-23,81130028
+3384	sao paulo	paulo trajano da silveira santos professor	praia do tumiaru	320	2965020	vila marina	-46,7077	-23,4869
+3385	sao paulo	paulo leivas macalao pastor	alto sucuriu	327	2679000	jardim peri	-46,66479874	-23,45700073
+3386	sao paulo	joao baptista alves silva prof	manuel vieira da luz	384	2318020	sitio do piqueri	-46,58494949	-23,44998932
+3387	sao paulo	emir macedo nogueira jornalista prof	iacape	322	3983090	parque santa madalena	-46,5097	-23,6103
+3388	sao paulo	romeu montoro	luis juliani	422	3978270	jardim adutora	-46,5060997	-23,61730003
+3389	sao paulo	paulo lauro dr	vitalino dos santos	85	3570160	parque savoy city	-46,4872	-23,5627
+3390	sao paulo	moacyr amaral dos santos	carlos belleville	22	8320880	jardim buriti	-46,47816081	-23,62420896
+3391	sao paulo	joaquim silverio gomes dos reis professor	rua guilherme de valencia	45	8253280	cohab jose  bonifacio	-46,4408989	-23,55179977
+3392	sao paulo	indiana zuycher simoes de jesus professora	inacio donati	200	8250710	conjunto residencial jose bonifacio	-46,43553162	-23,5413208
+3393	sao paulo	ruth cabral troncarelli professora	antonio gandini	690	8215460	itaquera	-46,4410477	-23,5384439
+3394	sao paulo	jose righetto sobrinho prof	criuva	380	8245300	vila progresso zona leste	-46,43273163	-23,51732063
+3395	sao paulo	frederico mariano	jeronimo prado	115	8411100	vila santa cruz zona leste	-46,41081369	-23,54739231
+3396	sao paulo	cicero canuto de lima pastor	cipotuba	37	5873190	morro do indio	-46,77772903	-23,68806076
+3397	sao paulo	ariston de oliveira professor tenente	joao da cruz e sousa	444	5893000	jardim das rosas zona sul	-46,78974915	-23,65764999
+3398	sao paulo	homero vaz do amaral	brest	2	4832060	jardim kioto	-46,71720123	-23,73320007
+3399	sao paulo	soichi mabe	amaro gomes	24	4949120	jardim aracati	-46,76964951	-23,71982956
+3472	sao paulo	leonel brizola	rua maria pape	30	4852218	jardim lucelia	-46,6731987	-23,7614994
+3473	sao paulo	ana maria bento professora	mario david andreazza ministro	94	4849080	parque residencial cocaia	-46,6709	-23,7427
+3502	sao paulo	centro de atend socioed ao adolescente rio turiassu  cip	mursa coronel	270	3043050	bras	-46,6153764	-23,5482932
+3505	sao paulo	elizabeth aparecida simoes mesquita professora	jose da natividade saldanha	SN	2844130	vila penteado	-46,68598938	-23,46982956
+3507	sao paulo	sandra rodrigues de oliveira	rua magnolia azul	92	8141640	itaim paulista	-46,38840103	-23,51199913
+3512	sao paulo	centro atend socioeduc ao adolescente aroeira 37 ci	rodovia raposo tavares km 195	SN	5577300	jardim arpoador	-46,7963	-23,5899
+3526	sao paulo	krukutu	estrada granja saiki	1693	4895000	barragem	-46,62009811	-23,8640995
+3528	sao paulo	centro atend socioeduc ao adolescente cedro ci	rodovia raposo tavares	KM 19	5577300	jd arpoador	-46,7678	-23,5844
+3529	sao paulo	wander taffo musico	mangualde	427	5851260	parque santo antonio	-46,75946045	-23,66415024
+3543	sao paulo	hospital emilio ribas classe hospitalar	arnaldo doutor	165	1246000	pacaembu	-46,6669	-23,5545
+3544	sao paulo	hospital emilio ribas classe hospitalar	av dr arnaldo	165	1246000	pacaembu	-46,6672	-23,5558
+3545	sao paulo	hospital emilio ribas classe hospitalar	av dr arnaldo	165	1246000	pacaembu	-46,6672	-23,5558
+3547	sao paulo	thayane luzimara costa valcacer professora	friedrich von voith	1790	2995000	jardim sao joao jaragua	-46,74020004	-23,43630028
+3548	sao paulo	republica da colombia	rendeira	926	2878160	jardim vista alegre	-46,68560028	-23,45389938
+3553	sao paulo	jardim capela iv	baronesa	100	4941175	parque bologne	-46,78269958	-23,71883011
+3563	sao paulo	eudoro villela	guavirutuba	600	4937000	vila bom jardim	-46,76451874	-23,68786049
+3564	sao paulo	marilsa garbossa francisco professora	paulo lemore	S/Nº	5844190	jardim sao luis	-46,74155045	-23,6615696
+3573	sao paulo	jardim dom angelico	alfonse joailler	SN	8473175	conjunto habitacional sitio conceicao	-46,38127136	-23,58659172
+3574	sao paulo	recanto verde sol	pedro ramazzani	73	8381800	recanto verde do sol	-46,42089081	-23,61352921
+3575	sao paulo	roque theophilo	cavaleiro de jorge	280	8474210	conjunto habitacional castro alves	-46,40031052	-23,58098984
+3576	sao paulo	fazenda da juta vi	lisa noblet	62	3977002	fazenda da juta	-46,48763657	-23,62183762
+3582	sao paulo	maria helena goncalves de arruda professora	cantidio sampaio deputado	4678	2860001	vila souza	-46,70249939	-23,4477005
+3583	sao paulo	nelson gomes caetano prof	antonio sergio de matos	1910	2281203	conjunto habitacional jova rural	-46,57970047	-23,45149994
+3584	sao paulo	leovergilio moreira prof	carlos martel	11	2324070	jardim ataliba leonel	-46,58819962	-23,44490051
+3585	sao paulo	fernando gasparian	luster	216	5783150	jardim umuarama	-46,77059174	-23,64642906
+3588	sao paulo	helio helene	gurgueia	SN	8072132	uniao de vila nova	-46,45808029	-23,48442078
+3589	sao paulo	paulo kobayashi	rua gurgueia	SN	8072132	uniao de vila nova	-46,45830154	-23,48419952
+3590	sao paulo	luis ambra desembargador	altolandia	110	8151280	parque dom joao neri	-46,40486145	-23,52087975
+3591	sao paulo	belize	carolina vovo	SN	8473370	guaianazes	-46,41944885	-23,59464073
+3596	sao paulo	hospital darcy vargas cl hosp	rua doutor serafico de assis carvalho	34	5690050	morumbi	-46,7104	-23,5934
+3597	sao paulo	hospital das clinicas fmsp classe hospitalar	eneas carvalho de aguiar doutor	255	5403000	cerqueira cesar	-46,6717	-23,5551
+3599	sao paulo	instituto da crianca pedro alcantara hcfmsp cl hosp	eneas carvalho de aguiar doutor	255	5403000	cerqueira cesar	-46,6717	-23,5551
+3600	sao paulo	instituto da crianca pedro alcantara hcmfsp cl hosp	eneas carvalho de aguiar doutor	255	5403000	cerqueira cesar	-46,6717	-23,5551
+3604	sao paulo	oscar dias correia ministro	alexios jafet	1800	5187010	jardim ipanema zona oeste	-46,75019836	-23,43989944
+3606	sao paulo	instituto do coracao hcfmsp classe hospitalar	eneas carvalho de aguiar doutor	44	5403000	cerqueira cesar	-46,6717	-23,5551
+3608	sao paulo	instituto do coracao hcfmsp classe hospitalar	eneas carvalho de aguiar doutor	44	5403000	cerqueira cesar	-46,6715	-23,5568
+3612	sao paulo	centro atend socioeduc adolescente vila leopoldina ci	avenida nacoes unidas	2233	5310000	vila leopoldina	-49,0562	-22,3323
+3613	sao paulo	centro atend socioeduc ao adolescente  itaqueraci	miguel ignacio curi	SN	8295005	vila carmosina	-46,468	-23,546
+3620	sao paulo	hospital darcy vargas cl hosp	serafico de assis carvalho doutor	SN	5614040	jardim leonor	-46,7107	-23,5934
+3621	sao paulo	miguel arraes governador	herbert spencer	SN	5663010	paraisopolis	-46,72373962	-23,61590958
+3627	sao paulo	republica do panama	piemonte da borborema	75	5777120	vila nova das belezas	-46,74655151	-23,64126968
+3635	sao paulo	centro de atend socioed ao adolescente rio tocantins cip	piratininga	85	3042001	bras	-46,6203451	-23,5460126
+3639	sao paulo	arthur guimaraes cl hosp pav fernandinho sta casa	cesario mota junior doutor	112	1221020	vila buarque	-46,6489309	-23,5426883
+3640	sao paulo	arthur guimaraes cl hosp pav cond penteado sta casa	cesario mota junior doutor	112	1221020	vila buarque	-46,6489309	-23,5426883
+3641	sao paulo	hospital das clinicas fmsp classe hospitalar	av doutor eneas carvalho de aguiar	255	5403000	c cesar	-46,6701	-23,5567
+3642	sao paulo	instituto cristovao colombo classes provisorias do	rua doutor mario vicente	1108	4270001	vila dom pedro i	-46,61317062	-23,59329033
+3658	sao paulo	centro de atend socio educ ao adolesc  cip bom retiro	estado	2001	1107000	bom retiro	-46,6249595	-23,532949
+3673	sao paulo	antonio carlos brasileiro de almeida jobim tom jobim	travessa sinha moca	52	8344000	jardim da conquista zona leste	-46,45526123	-23,60810089
+3692	sao paulo	centro de atend socioeduc ao adolesc guaianazes i ci	julio gouveia	SN	8465009	conjunto habitacional juscelino kubitschek	-46,39374924	-23,56502914
+3693	sao paulo	centro de atend socioeduc ao adolesc guaianazes ii ci	julio gouveia	SN	8465009	conjunto habitacional juscelino kubitschek	-46,393412	-23,566459
+3696	sao paulo	centro de atend socioeduc ao adolesc jardim sao luiz i ci	frederico grotte	SN	5818270	jardim vergueiro	-46,72977829	-23,66292381
+3705	sao paulo	teruko ueda yamaguti professora	amadeu giusti	52	4182080	jardim santa cruz sacoma	-46,59724045	-23,63994026
+3709	sao paulo	cel jto a ee dona zalina rolim	luis carlos doutor	740	3505000	vila aricanduva	-46,5441	-23,535
+3710	sao paulo	juan carlos onetti escritor	rua camutanga	SN	8260340	conjunto jose bonifacio	-46,42586899	-23,56587982
+3712	sao paulo	centro de atend socioeducao adolesc jardim sao luiz ii ci	frederico grotte	SN	5818270	jardim vergueiro	-46,72986984	-23,66293526
+3714	sao paulo	centro de atend socioeduc ao adolesc nova vida ci	morvan dias de figueiredo	4200	2170000	vila maria	-46,59288993	-23,52789891
+3715	sao paulo	centro de atend socioeduc ao adolesc paulista ci	morvan dias de figueiredo	4215	2170000	vila maria	-46,59295864	-23,52789715
+3716	sao paulo	centro de atend socioeduc ao adolesc bela vista ci	avenida condessa elisabeth robiano	450	3074000	belem	-46,59379621	-23,53051883
+3717	sao paulo	centro de atend socioeduc ao adolesc vila guilherme ci	avenida condessa elisabeth robiano	450	3074000	belem	-46,59375635	-23,53051602
+3718	sao paulo	noe rodrigues padre	santa cruz da conceicao	151	2850100	parque belem	-46,68674088	-23,46031952
+3719	sao paulo	jose ephim mindlin	augusto teixeira	101	4841160	parque planalto	-46,68629837	-23,73950005
+3726	sao paulo	centro de atend socioeduc ao adolescente ouro preto ci	morvan dias de figueiredo	4210	2170000	vila maria	-46,59304545	-23,52791759
+3727	sao paulo	centro de atend socioeduc ao adolescente sao paulo ci	avenida condessa elisabeth robiano	450	3074000	belem	-46,59374961	-23,5305245
+3730	sao paulo	cel jto a ee pereira barreto	rua nossa senhora da lapa	615	5072000	lapa	-46,7053489	-23,5246448
+3731	sao paulo	centro de atend socioeduc ao adolescente topazio cip	domingos paiva	170	3043070	bras	-46,6174172	-23,5445553
+3732	sao paulo	centro de atend socioeduc ao adolesc joao do pulo ci	morvan dias de figueiredo	4210	2170000	vila maria	-46,59297792	-23,52782112
+3733	sao paulo	hospital antonio prudente cl hospitalar	antonio prudente professor	211	1509010	liberdade	-46,6378924	-23,5655136
+3734	sao paulo	hospital antonio prudente cl hospitalar	antonio prudente professor	211	1509010	liberdade	-46,6378924	-23,5655136
+3739	sao paulo	hospital sao paulo cl hospitalar	napoleao de barros	715	4024002	vila clementino	-46,64930729	-23,5983
+3740	sao paulo	hospital sao paulo cl hospitalar	napoleao de barros	715	4024002	vila clementino	-46,64930729	-23,5983
+3741	sao paulo	centro de atend socioeduc ao adolesc belem ci	avenida condessa elisabeth robiano	450	3074000	belem	-46,58814139	-23,53011492
+3743	sao paulo	jardim pedra branca	begonia real	200	8490850	jardim pedra branca	-46,41970062	-23,58209991
+3747	sao paulo	carlos estevam aldo martins professor	silvestre sao	396	4255080	sao joao climaco	-46,5951163	-23,6236924
+3753	sao paulo	cristina de castro paes professora	jose artur nova doutor	2707	8090000	parque paulistano	-46,42478178	-23,47516159
+3774	sao paulo	rosa ines bornia moreira professora	estrada do alvarenga	5112	4476050	sete praias	-46,63430023	-23,71480942
+3778	sao paulo	nair olegario cajueiro	cataldo parrilha	215	4930055	jardim santa margarida	-46,75154877	-23,68071938
+3779	sao paulo	agenor de miranda araujo neto  cazuza	arnaldo daniel	S/N	5877150	jardim guaruja	-46,78902054	-23,69475937
+3780	sao paulo	sitio conceicao	wilson fernando scarvalho	35	8473000	conjunto habitacional sitio conceicao	-46,39165878	-23,5781002
+3792	sao paulo	marilia santos carvalho de polillo professora	isabela	363	8440520	jardim lajeado	-46,40670013	-23,53120995
+3793	sao paulo	bernardo ohiggins dom	jose de amenabar	371	8142004	jardim nelia	-46,38228989	-23,51292992
+3810	sao paulo	hospital ac camargo classe hospitalar	tamandare	753	1525001	liberdade	-46,6358668	-23,5652841
+3811	sao paulo	hospital ac camargo classe hospitalar	tamandare	753	1525001	liberdade	-46,6358668	-23,5652841
+3813	sao paulo	jardim santo andre iii	miguel ferreira de melo	50 A	8390000	jardim santo andre	-46,44350052	-23,63019943
+3814	sao paulo	conjunto hospitalar do mandaqui classe hospitalar	voluntarios da patria	4301	2402600	santana	-46,6315899	-23,4849846
+3823	sao paulo	penitenciaria asp joaquim fonseca lopes	avenida noel nutels	100	4896092	jardim santa terezinha parelheiros	-46,72900009	-23,82299995
+3894	sao paulo	penitenciaria feminina de santana	avenida general ataliba leonel	656	2088900	santana	-46,62107849	-23,50462914
+3896	sao paulo	centro de progressao penitenciaria de sao miguel paulista	americo gomes da costa	305 A	8010120	vila americana	-46,44404554	-23,49714399
+3900	sao paulo	penitenciaria feminina da capital	zaki narchi	1369	2029001	carandiru	-46,615306	-23,505167
+3910	sao paulo	itaci classe hospitalar	galeno de almeida	148	5410030	pinheiros	-46,6773	-23,5525
+3911	sao paulo	itaci classe hospitalar	galeno de almeida	148	5410030	pinheiros	-46,6773	-23,5525
+3914	sao paulo	morro doce	mario palmerio	SN	5267040	jardim anhanguera	-46,79166031	-23,43808937
+3922	sao paulo	centro de detencao provisoria ii pinheiros	nacoes unidas	1501	5310000	vila leopoldina	-46,7132	-23,6295
+3929	sao paulo	cppf dra marina marigo cardoso de oliveira do butanta	raposo tavares	SN	5577300	jardim arpoador	-46,79629898	-23,58989906
+3940	sao paulo	cel jto a ee dom pedro i	americo gomes da costa	59	8010120	vila americana	-46,44078542	-23,49468183
+3942	sao paulo	cel jto a ee jose marques da cruz prof	arace	563	3362050	vila formosa	-46,54231073	-23,56166392
+3944	sao paulo	cel jto a ee veridiana camacho carvalho gomes profa	carlos dos santos	781	2234000	jardim brasil zona norte	-46,573	-23,4798
+3946	sao paulo	cel jto a ee gustavo barroso	alfeu de alcantara monteiro	100	2281200	conjunto habitacional jova rural	-46,5807991	-23,4552002
+3947	sao paulo	cel jto a ee esther garcia profa	antonio carlos b dos santos	858	4856070	jardim myrna	-46,6976	-23,74782719
+3949	sao paulo	cel jto a ee alberto salotti prof	carlos oberhuber	90	4836130	jardim floresta	-46,70589828	-23,74040031
+4023	sao paulo	madre marie domineuc	paulo guilguer reimberg	3680	4856200	jardim novo horizonte	-46,69020081	-23,78300095
+4024	sao paulo	raimundo serafim de lima inspetor	bento barroso pereira	SN	5815085	jardim sao francisco de assis	-46,73597378	-23,66094989
+4025	sao paulo	chacara santa maria	avenida diamante verde	158	5880280	parque independencia	-46,78800964	-23,68614006
+4026	sao paulo	bernadete aparecida pereira godoi profa	luar do sertao	SN	5879450	chacara santa maria	-46,79259109	-23,68674088
+4027	sao paulo	jardim ipe	gastao raul de forton bousquet	401	5797000	jardim ipe	-46,77085114	-23,65568924
+4044	sao paulo	ilha da juventude	rua ilha da juventude	100	2820000	vila nova brasilandia	-46,71551895	-23,44981003
+4045	sao paulo	jornalista ruy mesquita	rosalvo jose da silva	SN	2855150	jardim carombe	-46,70253563	-23,45819963
+4064	sao paulo	ilda vieira vilela	canal de cocaia	SN	4849032	parque residencial cocaia	-46,66989899	-23,74259949
+4072	sao paulo	paulo rossi prof cl hospitalar hosp serv pub estadual	pedro de toledo	1800	4039004	vila clementino	-46,6444	-23,5981
+4076	sao paulo	octavia candido dos santos	cantanhede	SN	5790150	pirajussara	-46,78622055	-23,6439991
+4078	sao paulo	ruth guimaraes botelho	caraiva	253	5766270	jardim olinda	-46,75370026	-23,62932968
+4082	sao paulo	jardim noronha v	rufino zado	SN	4853070	jardim noronha	-46,67687988	-23,76795959
+4088	sao paulo	cynira stocco fausto professora	elisio teixeira leite	4511	2801000	vila brasilandia	-46,7153	-23,461
+4091	sao paulo	hospital santa marcelina classe hospitalar	rua marechal tito	6303	8115100	itaim paulista	-46,38972855	-23,49198914
+4092	sao paulo	cel jto a ee plinio negrao	braganca paulista	575	4727001	vila cruzeiro	-46,7153072	-23,641828
+4099	sao paulo	centro de atend socio educ ao adolesc ruth pistori cip	estado	1949	1107000	bom retiro	-46,6251047	-23,5325083
+4100	sao paulo	salvador romano	tomas lopes de camargo	510	8191230	jardim romano	-46,38499069	-23,47987938
+4101	sao paulo	candida rita da silva paulo	francisco fernandes frazao	37	8452180	lajeado	-46,3990097	-23,53673935
+4102	sao paulo	real e benemerita assoc port de beneficencia cl hospitalar	rua maestro cardim	769	1323900	bela vista	-46,64619827	-23,56990051
+4137	sao paulo	cel jto a ee roosevelt presidente	rua sao joaquim	120	1508000	liberdade	-46,6375903	-23,5618715
+4149	sao paulo	centro de detencao provisoria iii pinheiros	nacoes unidas	1230	5310000	vila leopoldina	-46,6816	-23,5624
+4155	sao paulo	hospital darcy vargas cl hosp	r doutor serafico de assis carvalho	34	5614040	morumbi	-46,7104	-23,5934
+4156	sao paulo	hospital darcy vargas cl hospitalar	r doutor serafico de assis carvalho	40	5614040	morumbi	-46,7105	-23,5935
+4157	sao paulo	hospital darcy vargas cl hosp	r doutor serafico de assis carvalho	34	5614040	morumbi	-46,7104	-23,5934
+4158	sao paulo	hospital antonio prudente cl hospitalar	antonio prudente professor	211	1509010	liberdade	-46,6378924	-23,5655136
+4165	sao paulo	hospital darcy vargas classe hospitalar	r doutor serafico de assis carvalho	34	5614040	morumbi	-46,7104	-23,5934
+4166	sao paulo	adolfo tripoli cl hospitalar darcy vargas	r doutor serafico de assis carvalho	34	5614040	morumbi	-46,7104	-23,5934
+4167	sao paulo	hospital darcy vargas cl hospitalar	r doutor serafico de assis carvalho	34	5614040	morumbi	-46,7104	-23,5934
+4169	sao paulo	djekupe amba arandy	turistica do jaragua	3710	5161000	vila jaragua	-46,75371933	-23,46462059
+4170	sao paulo	paulo rossi prof cl hospitalar hosp serv pub estadual	r pedro de toledo	1800	4039004	vl clementino	-46,6544	-23,5972
+4171	sao paulo	paulo rossi prof cl hospitalar hosp serv pub estadual	r pedro de toledo	1800	4039004	vl clementino	-46,6544	-23,5972
+4172	sao paulo	hospital antonio prudente cl hospitalar	antonio prudente professor	211	1509010	liberdade	-46,63788986	-23,5655098
+4174	sao paulo	centro atend socioeduc adolescente pirituba ci	stefano mauser	651	5175200	jardim regina	-46,73892975	-23,47561073
+4176	sao paulo	centro de atend socioedc ao adolescente rio tamisa ci 36	mursa coronel	270	3043050	bras	-46,61566925	-23,54833031
+4177	sao paulo	centro de atend socioedc ao adolescente rio tamisa ci 36	mursa coronel	270	3043050	bras	-46,615673	-23,548331
+4186	sao paulo	centro atend socioeduc adolescente parada de taipas ci	rua projetada 02	SN	2820000	conjunto residencial elisio teixeira leite	-46,71237183	-23,44153023
+4187	sao paulo	centro de atend socioeduc ao adolescente itaparica  cip6	rua coronel mursa	618	3043050	bras	-46,6150641	-23,5478941
+4188	sao paulo	centro de atend socioeduc ao adolescente rio parana cip	r coronel mursa	270	3043050	bras	-46,6153764	-23,5482932
+4189	sao paulo	centro de atend socioeduc ao adolescente  cip8	r coronel mursa	270	3043050	bras	-46,6153764	-23,5482932
+4190	sao paulo	centro atend socioedc adolesc internato fem mooca ci	japuruchita	300	3128070	alto da mooca	-46,58544537	-23,57034417
+4191	sao paulo	centro atend socioeduc adolescenteencosta norteci	ary cordovil	250	8131300	itaim paulista	-46,37995911	-23,50367928
+4192	sao paulo	centro atend socioeduc adolesc  encosta norteci	ary cordovil	250	8131300	itaim paulista	-46,3807106	-23,50312042
+4193	sao paulo	centro atend socioeduc adolesc  vila conceicaoci	jean lacome	78	8150586	jardim quisisana vila nova curuca	-46,40576172	-23,52131081
+4194	sao paulo	centro atend socioeduc adolesc  vila conceicaoci	jean lacome	78	8150586	jardim quisisana vila nova curuca	-46,40496063	-23,52088928
+4195	sao paulo	centro atend socioeduc adolesc faz do carmo int ci	rua professor hasegawa	100	8260090	colonia zona leste	-46,433499	-23,563036
+4196	sao paulo	centro atend socioeduc ao adolescente ipe ci	rodovia raposo tavares	KM19,5	5577300	jardim arpoador	-46,7678	-23,5844
+4197	sao paulo	centro atend socioeduc ao adolescente nogueira 27 ci	rodovia raposo tavares	KM19,5	5577300	jardim arpoador	-46,7677	-23,5844
+4198	sao paulo	centro atend socioeduc ao adolescente jatoba 28 ci	rodovia raposo tavares	KM19,5	5577300	jardim arpoador	-46,7678	-23,5844
+4222	sao paulo	hospital santa marcelina classe hospitalar	rua arraial da anta	325	8270090	vila carmosina	-46,46166229	-23,5574894
+4239	sao paulo	centro de atend socioeduc ao adolescente rio nilo ci	piratininga	85	3042001	bras	-46,6203451	-23,5460126
+4243	sao paulo	professor walter lerner	rua dos calangos	60	4474270	parque doroteia	-46,64294815	-23,7027092
+4253	sao paulo	hospital sao paulo classe hospitalar	napoleao de barros	757	4024000	vila clementino	-46,64398583	-23,59816067
+4254	sao paulo	hospital sao paulo classe hospitalar	rua napoleao de barros	757	4024002	vila clementino	-46,644	-23,59814101
+4257	sao paulo	hospital santa marcelina cl hospitalar	aldemar moreira padre	200	8471010	cidade tiradentes	-46,39975739	-23,60006332
+4264	sao paulo	real e benemerita assoc port de beneficencia cl hospitalar	rua maestro cardim	769	1323900	bela vista	-46,64619827	-23,56990051
+4285	sao paulo	socrates brasileiro sampaio de souza vieira de oliveira	antonio simplicio	170	2354290	parque ramos freitas	-46,60725784	-23,4523716
+4299	sao paulo	conjunto hospitalar do mandaqui classe hospitalar	voluntarios da patria	4301	2402600	santana	-46,6315899	-23,4849846
+4303	sao paulo	eunice marques moura bastos profa	narceja	100	8032340	vila nova curuca	-46,42552948	-23,51626968
+4305	sao paulo	leila sabino professora	silvilino mantovanini	300	4925040	jardim riviera	-46,74546051	-23,70590019
+4399	sao paulo	raul antonio fragoso professor	charles silver	51	5143210	jardim sao ricardo	-46,72256088	-23,49630928
+4400	sao paulo	eduardo gomes brigadeiro cohab	joao amado coutinho	1010	2815000	conjunto residencial elisio teixeira leite	-46,7123735	-23,4415264
+4401	sao paulo	miguel sansigolo prof	francisco da rocha	157	3921130	jardim iva	-46,51480103	-23,58919907
+4402	sao paulo	camilo maria cavalheiro dom	garuva	55	3576160	jardim santa maria	-46,50849915	-23,55450058
+4403	sao paulo	jose bustamante deputado	antonio de camargo ortiz	2	8122270	parque santa amelia	-46,37548707	-23,49650278
+4404	sao paulo	luiz cintra do prado professor	rua artur ferreira de abreu	321	5547150	jardim guarau	-46,76869965	-23,59460068
+4405	sao paulo	amador e catharina saporito augusto	amaro oliveira lima	251	5784010	parque esmeralda	-46,76211166	-23,62140083
+4406	sao paulo	jose porphyrio da paz	jose alves da silva	870	5874000	parque novo santo amaro	-46,78461075	-23,69771957
+4407	sao paulo	jose hermenegildo leoni professor	domenico de palma	451	4652234	cupece	-46,66640091	-23,66428947
+4408	sao paulo	jose cavalcanti silva desembargador	george bernanos	71	4432110	jardim sao jorge	-46,66175079	-23,68180084
+4409	sao paulo	iturbides bolivar de almeida serra prof	pinedo	777	4764001	socorro	-46,71575928	-23,67186928
+4410	sao paulo	herminio sacchetta	paulo guilguer reimberg	9865	4858570	parque maria fernandes	-46,67031166	-23,81557239
+4437	sao paulo	shiro kyono deputado	tomas de santa maria	245	3928170	conjunto habitacional teotonio vilela	-46,5041008	-23,60549927
+4438	sao paulo	maria jose barone fernandes profa	itaicica	37	3578050	jardim itapema	-46,50439835	-23,5597496
+4439	sao paulo	anna pontes toledo natali professora	paco do lumiar	191	3820140	vila silvia	-46,50128937	-23,49707985
+4440	sao paulo	margarida maria alves	diamante verde	180	5880280	parque independencia	-46,78862	-23,6861496
+4441	sao paulo	irma charlita	adelia da silva mendes	700	4850020	parque cocaia	-46,6803	-23,7528
+4442	sao paulo	joao goulart presidente	rua sao jose do rio preto	SN	4840460	grajau	-46,6833992	-23,75309944
+4443	sao paulo	eugenio mariz de oliveira netto	rua dona virgnia	100	4922120	chacara vista alegre	-46,74206924	-23,69297791
+4450	sao paulo	francisco alves mourao professor	rua adelina maria de jesus	15	4470261	jardim apura	-46,65845108	-23,71052551
+4451	sao paulo	miguel munhoz filho	agostinho rubin	301	5848000	jardim germania	-46,75997925	-23,65838051
+4452	sao paulo	cesar yasigi professor	soriano de albuquerque	100	5894440	jardim macedonia	-46,7906189	-23,65345955
+4453	sao paulo	moacyr de castro ferraz professor	juan aldama	100	5783130	jardim umuarama	-46,76985168	-23,64723969
+4456	sao paulo	paulo roberto faggioni professor	tabacarana	10	8051100	limoeiro	-46,46992874	-23,5177002
+4457	sao paulo	elyseu simoes machado professor	acaua	225	8223250	cidade antonio estevao de carvalho	-46,46916962	-23,52935982
+4458	sao paulo	neydy de campos melges prof	margarida carlos de albuquerque	288	8142260	jardim laura	-46,38462067	-23,52026939
+4459	sao paulo	dario monteiro de brito prof	salvador balbino de matos	104	8110750	vila itaim	-46,39051056	-23,49217033
+4460	sao paulo	antonieta de souza alcantara	pranto de poeta	101	8381015	jardim da laranjeira zona leste	-46,42729187	-23,61660004
+4461	sao paulo	cesar donato calabrez	inacio monteiro	1391	8490000	jardim sao paulozona leste	-46,403759	-23,56697083
+4462	sao paulo	joao camargo prof	angelo de candia	2868	3958000	cidade sao mateus	-46,4773947	-23,6064625
+4463	sao paulo	jorge andrade	rua doutor benedito matarazzo	5	5854090	parque maria helena	-46,76189041	-23,66316032
+4465	sao paulo	rosa pavone pimont doutora	rua conde de proenca	28	4932430	jardim coimbra	-46,76026149	-23,68210622
+4467	sao paulo	joao castellano professor	tomoichi shimizu	758	8260140	colonia zona leste	-46,43672943	-23,57602119
+4468	sao paulo	fernando mauro pires da rocha deputado	jose pinto	10	8471520	cidade tiradentes	-46,40247544	-23,6068878
+4471	sao paulo	maria jannuzzi mascari professora	itapecerica	9950	5858002	parque fernanda	-46,79376984	-23,67697906
+4472	sao paulo	julieta farao profa	batista fergusio	1754	3978180	vila cardoso franco	-46,50569916	-23,62520027
+4473	sao paulo	arthur chagas junior prof	francesco usper	951	3928235	conjunto habitacional teotonio vilela	-46,4966011	-23,60429955
+4474	sao paulo	jozineide pereira gaudino	joaquim meira de siqueira	200	8275490	jardim nossa senhora do carmo	-46,48509979	-23,5753994
+4475	sao paulo	maria jovita	vilanova de santa cruz	SN	3813060	jardim matarazzo	-46,46709061	-23,49007988
+4476	sao paulo	marcelo tulman neto	rua beladona	372	8161330	jd miragaia	-46,41714859	-23,50348091
+4477	sao paulo	said murad	pinheiro do parana	177	8235590	parque guarani	-46,46276512	-23,5172857
+4478	sao paulo	joao batista vilanova artigas prof	fernando de godoi	21	8121380	jardim elza	-46,38280106	-23,50580025
+4479	sao paulo	francisco parente	rua toshio yoshida	11	8111710	vila odete	-46,38011169	-23,48468971
+4480	sao paulo	pedro brasil bandecchi prof	jose alves coelho	140	8142180	jardim nelia	-46,38405991	-23,51192093
+4481	sao paulo	luiz vaz de camoes	joao pedro luna	132	8253495	conjunto residencial jose bonifacio	-46,4373703	-23,54990959
+4482	sao paulo	itiro muto	paulo araujo novaes	190	4822010	parque america	-46,6901	-23,7286
+4483	sao paulo	tancredo de almeida neves pres	paulo guilguer reimberg	2448	4856200	jardim novo horizonte	-46,69680023	-23,77669907
+4484	sao paulo	christiano altenfelder silva doutor	julia mameia	45	4859100	jardim santa fe zona sul	-46,70360184	-23,76479912
+4485	sao paulo	calhim manoel abud	oscar fernandes	SN	4775090	vila californiazona sul	-46,702	-23,6855
+4554	sao paulo	joao xxiii	avenida vaticano	245	5569120	jardim joao xxiii	-46,79508972	-23,60232925
+4559	sao paulo	leonidas horta de macedo professor	miguel ribas	11	5187270	jardim ipanema zona oeste	-46,75130081	-23,44718933
+4560	sao paulo	marilena piumbato chaparro professora	boaventura pereira	235	5158240	parque anhanguera sao domingos	-46,76029968	-23,49069977
+4561	sao paulo	felicia de rinaldis franco	campinorte	58	2981040	jardim sydney	-46,71590042	-23,46069908
+4562	sao paulo	maria antonietta de castro profa	inacio firmo	65	2161100	jardim julieta	-46,56790924	-23,4889698
+4563	sao paulo	fernando pessoa	rua padre aldemar moreira	200	8471010	cidade tiradentes	-46,39956734	-23,59969816
+4564	sao paulo	mariuma buazar mauad	rua padre aldemar moreira	461	8471010	cidade tiradentes	-46,39638901	-23,59934044
+4565	sao paulo	aquilino ribeiro	onofre leite meirelles	1	8461620	jardim sao paulozona leste	-46,40599823	-23,5625
+4566	sao paulo	guerra junqueiro	floriano arresti	52	8465220	conjunto habitacional juscelino kubitschek	-46,39375359	-23,56503201
+4567	sao paulo	tancredo neves presidente	avenida marginal com rua barbinos	111	4243000	jardim patente	-46,58658981	-23,62612915
+4568	sao paulo	mary moraes	avenida marechal juarez tavora	257	5750000	super quadra morumbi	-46,74560928	-23,61495972
+4569	sao paulo	martinho da silva	rua comendador antunes dos santos	1800	5861260	jardim vaz de lima	-46,75983047	-23,67425919
+4577	sao paulo	joaquim torres santiago professor	antonio bonici	60	3811060	jardim matarazzo	-46,48149109	-23,49113083
+4578	sao paulo	maria antonieta ferraz bibliotecaria	rafael della monica	300	8470480	cidade tiradentes	-46,39609909	-23,59819984
+4579	sao paulo	washington alves natel	rua ministro mario david andreazza	50	4849080	parque residencial cocaia	-46,6703	-23,7428
+4580	sao paulo	nildo do amaral junior padre	tropicalia	SN	8061010	jardim pedro jose nunes	-46,4655903	-23,5050057
+4581	sao paulo	lauro celidonio gomes dos reis dr	joao batista de godoy	1000	8111430	jardim das oliveiras	-46,37162018	-23,49616051
+4582	sao paulo	laurinda rodrigues pereira leite profa	benedito aquilino de freitas	55	8110290	vila silva teles	-46,40388107	-23,50037003
+4595	sao paulo	yolanda bernardini robert professora	francisco de alvarenga	SN	4417260	jardim miriam	-46,63381577	-23,67971802
+4598	sao paulo	ines brega cordeiro professora	centralina	387	8410100	vila princesa isabel	-46,41569901	-23,54585075
+4599	sao paulo	gil vicente	antonio elias schoueri	240	4945005	parque do lago	-46,78015137	-23,71525002
+4603	sao paulo	candido procopio ferreira de camargo professor	sara kubitscheck	215	8474000	conjunto habitacional castro alves	-46,40449905	-23,58099937
+4663	sao paulo	assis jose ambrosio	alfarrobeiras	68	2676010	jardim peri	-46,6715	-23,4577
+4664	sao paulo	terezine arantes ferraz bibliotecaria	ushikichi kamiya	1300	2323000	parque casa de pedra	-46,58559036	-23,43898964
+4665	sao paulo	clovis rene calabrez prof	freguesia da cachoeira	77	8441100	jardim lajeado	-46,3993187	-23,53244019
+4666	sao paulo	camilo castelo branco	edmundo orioli	85	8470600	cidade tiradentes	-46,39461136	-23,60136032
+4667	sao paulo	bernardim ribeiro	utaro kanai	501	8465000	conjunto habitacional juscelino kubitschek	-46,3972	-23,5651
+4668	sao paulo	francisco mignone	rio birigui	SN	8265290	gleba do pessego	-46,45280075	-23,58399963
+4669	sao paulo	yervant kissajikian	paisagem noturna	353	8253440	conjunto residencial jose bonifacio	-46,43783188	-23,55374908
+4687	sao paulo	maria luisa monteiro da cunha bibliotecaria	rua inacio manuel alvares	697	5372111	jardim ester	-46,76589966	-23,58029938
+4688	sao paulo	etelvina de goes marcucci professora	jose carlos de toledo piza	10	5712070	jardim parque morumbi	-46,73244095	-23,62093925
+4689	sao paulo	dib audi	januario da cunha barbosa	413	5793280	jardim elizabeth	-46,77685165	-23,63916969
+4690	sao paulo	santa rosa de lima	nainpur	80	5796150	jardim vale das virtudes	-46,77785492	-23,65115356
+4691	sao paulo	oscar pereira machado	miguel dionizio valle	96	4942040	jardim nakamura	-46,77724075	-23,6960907
+4692	sao paulo	gerson de moura muzel professor	avenida carlos alberto bastos machado	SN	4856080	jardim almeida prado	-46,69110107	-23,77619934
+4693	sao paulo	jayr de andrade professor	rua luis viana	110	4830400	jordanopolis	-46,70040131	-23,73349953
+4694	sao paulo	leonor fernandes costa zacharias	enrique amorim	101	4894410	jardim das fontes	-46,75577164	-23,86750031
+4707	sao paulo	izac silverio prof	bitencourt da silva	218	2356070	jardim virginia bianca	-46,61119843	-23,44939995
+4708	sao paulo	leonidas paiva prof	martires armenios	618	2345000	barro branco zona norte	-46,60874176	-23,46614075
+4714	sao paulo	edson luiz ribeiro luzia professor	vitor jose de castro	43	8240305	jardim norma	-46,44602966	-23,52569008
+4715	sao paulo	salvador allende gossens presidente	domingos lisboa	139	8250690	conjunto residencial jose bonifacio	-46,43341827	-23,53850937
+4717	sao paulo	maria de lourdes aranha de assis pacheco professora	angelo andrade	51	8253050	conjunto residencial jose bonifacio	-46,44028091	-23,54320908
+4718	sao paulo	nabiha abdalla chohfi	raimundo goncalves ferreira	466	8225410	jardim aurora zona leste	-46,46248182	-23,5288476
+4719	sao paulo	jorge luis borges	milagre dos peixes	700	8474120	conjunto habitacional castro alves	-46,4029007	-23,57909966
+4720	sao paulo	fabio agazzi	alvaro da costa	60	8461420	jardim sao paulozona leste	-46,40095901	-23,55843925
+4726	sao paulo	jacob salvador zveibil	elisio teixeira leite	6700	2810000	sitio morro grande	-46,71689987	-23,44459915
+4727	sao paulo	sergio da silva nobreza prof	francesco melzi	305	3579140	jardim marilia	-46,498656	-23,5627362
+4730	sao paulo	caetano zamitti mammana prof	carlo bibiena	152	8081380	parque paulistano	-46,42158127	-23,49057007
+4734	sao paulo	afranio de oliveira	giuseppe tartini	818	4844300	jardim sao bernardo	-46,70450974	-23,75420952
+4762	sao paulo	miguel maluhy comendador	mirandas	40	5752590	jardim maria duarte	-46,756073	-23,61538506
+4796	sao paulo	oswaldo gagliardi	rua inacio monteiro	3206	8490000	cohab conceicao	-46,39456177	-23,57240677
+4797	sao paulo	maud sa de miranda monteiro professora	falkenberg	240	5885240	jardim comercial	-46,78517151	-23,67683029
+4799	sao paulo	oswaldo walder professor	rua sara newton	256	5583030	jardim boa vista	-46,793	-23,5824
+4822	sao paulo	valentim carra professor	francisco lustosa	271	8330140	jardim vera cruzzona leste	-46,47072983	-23,61684036
+4825	sao paulo	jose duarte junior professor	domingos faustino sarmiento	422	4836360	jardim alpino	-46,71171188	-23,74570084
+4833	sao paulo	liberato grossi prof	ilha da trindade	457	3981020	parque santa madalena	-46,5177	-23,6131
+4834	sao paulo	maria prestes maia	antonio ferraciolli	283	3910070	jardim catarina	-46,51382065	-23,58428955
+4835	sao paulo	manoel da silveira porto filho reverendo professor	simao alves de almeida	SN	5867490	jardim modelo	-46,76826859	-23,67193031
+4836	sao paulo	yoshio ninomiya	joao andre leyser	100	5884100	vila fazzeoni	-46,7756691	-23,67428017
+4837	sao paulo	menotti del picchia poeta	coroata	540	3557010	jardim hercilia	-46,50561905	-23,5405407
+4838	sao paulo	antenor santos de oliveira prof	helena dos santos	SN	3581200	jardim fernandes	-46,4986	-23,5545
+4839	sao paulo	parque savoy city ii	rua japarana	98	3570310	parque savoy city	-46,49280167	-23,57364082
+4840	sao paulo	a hebraica	alziro zarur	550	3570000	parque savoy city	-46,48348999	-23,56583977
+4841	sao paulo	laerte panighel professor	planalto de araxa	60	3756020	jardim gonzaga	-46,50426865	-23,50728989
+4842	sao paulo	victorio napoleao oliani professor	colonia leopoldina	340	3821020	vila silvia	-46,5019129	-23,4905961
+4843	sao paulo	lourenco zanelatti	paulo queiroz doutor	1475	3951090	jardim nove de julho	-46,4822998	-23,59090042
+4844	sao paulo	francisco glycerio de freitas dr	cosmo jose da silva	322	8285300	cidade lider	-46,47652054	-23,55385017
+4845	sao paulo	wilfredo pinheiro prof	galaxia	321	8330415	cidade satelite santa barbara	-46,4578	-23,6105
+4846	sao paulo	kimako kamada kinoshita profa	francisco tranchesi	520	8270460	jardim nossa senhora do carmo	-46,46120071	-23,56399918
+4847	sao paulo	joao sarmento pimentel	alcion	431	8331010	cidade satelite santa barbara	-46,46889877	-23,61125183
+4848	sao paulo	valdir fernandes pinto prof	antenor da costa soldado	145	3977310	conjunto habitacional marechal mascarenhas de mora	-46,49480057	-23,61919975
+4849	sao paulo	isaac schraiber professor	alvaro do prado	165	8311060	parque sao rafael	-46,4684	-23,6266
+4850	sao paulo	sumie iwata professora	rua professora lucila cerqueira	100	8420690	jardim sao pedro	-46,4279	-23,5496
+4851	sao paulo	inah jacy de castro aguiar	adhemar antonio prado professor	190	3945010	jardim tiete	-46,49129868	-23,59490013
+4852	sao paulo	maria lucia ambrozio profa	antonio januario ferraz	80	8431740	jardim etelvina	-46,41830063	-23,52969933
+4853	sao paulo	carmelinda marques pereira professora	borzeguim	90	8381660	jardim alto alegre sao rafael	-46,42760086	-23,61230087
+4854	sao paulo	rosarita torkomian profa	altolandia	140	8151280	parque dom joao neri	-46,40496417	-23,52089311
+4855	sao paulo	saturnino pereira professor	bernardino antunes	200	8460190	jardim soares	-46,40224838	-23,55142021
+4856	sao paulo	aurelio buarque de holanda ferreira prof	jose gravonski doutor	90	8441000	jardim robru	-46,40911865	-23,52753067
+4857	sao paulo	nair toledo damiao professora	jequirituba	2114	4822000	parque america	-46,68650055	-23,73920059
+4858	sao paulo	alexandre ansaldo mozzilli professor	rua doutor francisco loureiro	180	4814150	jardim maria rita	-46,67900085	-23,71940041
+4915	sao paulo	maria vera lombardi siqueira profa	jose alexandre machado	619	8160460	jardim silva teles	-46,40871048	-23,50052071
+4916	sao paulo	jose borges andrade	rainha margarida	20	8030660	vila curuca	-46,41960144	-23,50900078
+4917	sao paulo	maria regina machado de castro guimaraes profa	noitibo	80	8031150	vila nova curuca	-46,41925049	-23,5182209
+4918	sao paulo	sergio paulo muniz pimenta capitao	gaspar de godoi moreira	19	8121590	jardim virginia	-46,38669968	-23,49413681
+4919	sao paulo	friedrich von voith	antonio de cabezon	398	2996000	parque nacoes unidas	-46,73694992	-23,44664955
+4920	sao paulo	helios heber lino professor	montes pirineus	31	2871080	jardim ondina	-46,67309189	-23,46276093
+4921	sao paulo	jose baptista rios castelloes professor	itata	195	4404080	vila erna	-46,65793991	-23,67000008
+4922	sao paulo	waldemar rodrigues da silva pastor	jenny lind	20	4434280	jardim orly	-46,66468811	-23,68485641
+4942	sao paulo	fernandes soares prof	erva do sereno	500	8180010	jardim maia	-46,41220856	-23,48397064
+4943	sao paulo	arcangelo sforcim	serra da moeda	61	8070060	parque cruzeiro do sul	-46,46474838	-23,49382019
+4944	sao paulo	tito livio ferreira professor	bardana	35	8040730	jardim ruth	-46,4482193	-23,51123047
+4945	sao paulo	geraldino dos santos deputado	sertanistas	1175	8390240	jardim santo andre	-46,44633865	-23,63087082
+4946	sao paulo	therezinha aranha mantelli	rua professor antonio de castro lopes	930	3805080	parque boturussu	-46,4784005	-23,4999338
+4947	sao paulo	jose borges dos santos junior rev	daniel arcioni	80	8051080	limoeiro	-46,47076035	-23,51839066
+4951	sao paulo	olinda leite sinisgalli professora	emilio kemp	126	2865000	vila penteado	-46,67750931	-23,47373009
+4952	sao paulo	urbano de oliveira pinto rev	tantas palavras	10	8223510	conjunto habitacional aguia de haia	-46,4693922	-23,5224683
+4953	sao paulo	henrique de souza filho henfil	gastao formenti	70	4187170	vila santa teresa zona sul	-46,59381866	-23,64752007
+4971	sao paulo	dilson funaro ministro	francisco machado da silva	1410	2678000	jardim peri	-46,6534	-23,4557
+4984	sao paulo	irineu monteiro de pinho rev	chuva e sol	41	8225560	conjunto habitacional a e carvalho	-46,46031189	-23,52581024
+5016	sao paulo	rossine camargo guarnieri	rua f	SN	4882010	parque florestal	-46,76210022	-23,80413628
+5025	sao paulo	umberto conte checchia professor	rua general costa campos	280	3807100	vila robertina	-46,47539902	-23,49691963
+5032	sao paulo	francisco voccio	ita	SN	2636030	vila santos	-46,64630127	-23,45619965
+5063	sao paulo	octavio marcondes ferraz engenheiro	waldemar tietz	1477	3589001	conjunto habitacional padre jose de anchieta	-46,4813832	-23,5513865
+5064	sao paulo	livio xavier	antonio joao de medeiros	2040	8140060	itaim paulista	-46,39081955	-23,51685524
+5065	sao paulo	araci zebral teixeira	serra das araras	180	8451050	vila iolandalajeado	-46,40103149	-23,53840065
+5066	sao paulo	sergio estanislau camargo	otelo augusto ribeiro	1309	8412000	guaianazes	-46,40995026	-23,5448494
+5067	sao paulo	zipora rubinstein professora	rua irmao deodoro	830	8410410	vila princesa isabel	-46,41899872	-23,55069923
+5068	sao paulo	flavio la selva professor	carmelo cali	240	4940070	vila santa lucia	-46,76583099	-23,69177055
+5069	sao paulo	norberto alves rodrigues professor	carmem escabia motta coelho	50	5832230	jardim mazza	-46,75259018	-23,67448044
+5075	sao paulo	manoel de melo missionario	arcadia paulistana	205	8280540	jardim nossa senhora do carmo	-46,4704	-23,5651
+5076	sao paulo	pasquale filippelli padre	paulino alves escudeiro	240	4475350	guacuri	-46,6362915	-23,70022011
+5077	sao paulo	rene muawad presidente	estela naves junqueira	79	4841000	parque america	-46,68999863	-23,73509979
+5102	sao paulo	marly diva bonfanti profa	pedro osorio filho	996	2614000	vila nova cachoeirinha	-46,65269852	-23,47430038
+5103	sao paulo	eunice terezinha de oliveira fragoas profa	antonelo da messina	222	2318000	sitio do piqueri	-46,58929825	-23,4545002
+5104	sao paulo	herminia de andrade pfuhl neves professora	rainha da noite	85	8235000	parque guarani	-46,45700073	-23,51832962
+5105	sao paulo	zilda arns neumann	cangica	50	8050390	jardim das camelias	-46,45874023	-23,51104927
+5106	sao paulo	renato dias de araujo prof	carmem de almeida	36	8131340	itaim paulista	-46,3807106	-23,50312042
+5107	sao paulo	breno di grado prof	manuel alvares pimentel	801	8141000	jardim miriam	-46,3874588	-23,52120972
+5108	sao paulo	jacques orlando caminha d avila reverendo	antonio ramos rosa	100	5822010	parque santo antonio	-46,74251175	-23,65833092
+5125	sao paulo	julio de carvalho barata	rua ely rey	271	8062520	jardim sao carlos zona leste	-46,47314835	-23,5114193
+5126	sao paulo	hugo takahashi eng	juliao pereira machado	60-A	8020020	parque sonia	-46,44503021	-23,49933052
+5127	sao paulo	rubem braga cronista	virgilio campelo padre	100	8131310	itaim paulista	-46,3756218	-23,50801086
+5128	sao paulo	eder bernardes dos santos soldado pm	ary cordovil	251	8131300	itaim paulista	-46,37995911	-23,50367928
+5129	sao paulo	roger jules de carvalho mange	estudantes da china	570	8131220	itaim paulista	-46,37350082	-23,50189972
+5136	sao paulo	gustavo barroso	alfeu de alcantara monteiro	100	2281200	conjunto habitacional jova rural	-46,5808	-23,4552
+5137	sao paulo	brenno rossi maestro	jose pardo	41	8341250	parque boa esperanca	-46,45166016	-23,60219002
+5138	sao paulo	simao mathias professor	ragueb chohfi	4757	8375000	jardim tres marias	-46,43947983	-23,59469986
+5139	sao paulo	pedro geraldo costa deputado	francisco capara	75	8450570	jardim fanganiello	-46,38973688	-23,54608894
+5140	sao paulo	conjunto habitacional itaquera iv i	aquarela do brasil	20	8257030	conjunto residencial jose bonifacio	-46,4255776	-23,5528395
+5141	sao paulo	sergio rocha kiehl professor	avenida doutor guilherme de abreu sodre	1503	8490010	vila hortencia	-46,40702057	-23,56562996
+5142	sao paulo	afiz gebara doutor	bacia de sao francisco	SN	5885540	conjunto habitacional jardim sao bento	-46,78720093	-23,67744064
+5143	sao paulo	jose raul poletto	barroso do amaral professor	665	4937010	vila santa lucia	-46,76524353	-23,68570518
+5144	sao paulo	belkice manhaes reis professora	jane vanine capozi	SN	4897340	cidade nova america	-46,67459869	-23,87240028
+5167	sao paulo	paulina madre	virgilio campelo padre	130	8131310	itaim paulista	-46,37667084	-23,50665092
+5168	sao paulo	aniz badra doutor	mario david andreazza ministro	112	4849080	parque residencial cocaia	-46,6711998	-23,74259949
+5170	sao paulo	marlene adua fortunato professora	gaivotas do ceu	53	4857725	chacara do sol	-46,6756	-23,7803
+5212	sao paulo	felicio tonetti	jose milton barbosa	138	2281214	conjunto habitacional jova rural	-46,57849884	-23,45059967
+5223	sao paulo	paulo machado de carvalho	rua aguiar de barros	160	1316020	bela vista	-46,6401698	-23,5538581
+5275	sao paulo	fulvio abramo	jose romeiro	61	8475350	cidade tiradentes	-46,4017981	-23,5935349
+5276	sao paulo	ruy de mello junqueira	metalurgicos	150	8471000	cidade tiradentes	-46,4090004	-23,58469963
+5303	sao paulo	jesus jose attab professor	ana amelia do nascimento	137	4866040	vila marcelo	-46,7215004	-23,7887001
+5321	sao paulo	alvaro simoes	cecilia iter	150	8240730	vila progresso zona leste	-46,44144821	-23,52280045
+5322	sao paulo	lucas roschel rasquinho	paulino gottsfritz	50	4875060	colonia zona sul	-46,69789505	-23,84599495
+5332	sao paulo	conjunto habitacional carraozinho	goncalves da costa	317	8340520	jardim vila carrao	-46,4516983	-23,61109924
+5352	sao paulo	salvador ligabue professor	moreninha linda	65	2820010	vila brasilandia	-46,71195984	-23,44869995
+5354	sao paulo	haydee hidalgo professora	do jacarandapaulista	80	8382557	jardim arantes	-46,41617966	-23,62218094
+5357	sao paulo	oscar blois	rua angelo da silva	20	2996140	jardim panamericano	-46,73426056	-23,44857025
+5358	sao paulo	gianfrancesco s b m guarnieri	rua itapira	183	3102060	mooca	-46,62163162	-23,55187988
+5380	sao paulo	sapopemba	rua senador nilo coelho	690	3929100	jardim sapopemba	-46,49060059	-23,60499954
+5381	sao paulo	jardim wilma flor	da nascente	130	8473290	guaianazes	-46,39664078	-23,57621956
+5382	sao paulo	cohab inacio monteiro iii	igarape da bela aurora	435	8472200	conjunto habitacional inacio monteiro	-46,40008163	-23,57440948
+5391	sao paulo	vila bela	terra tombada	SN	8344600	jardim da conquista zona leste	-46,45151353	-23,61160188
+5392	sao paulo	leda guimaraes natal	americo coxa	SN	4890000	parelheiros	-46,72900009	-23,82299995
+5407	sao paulo	jair toledo xavier professor	joaquim de almeida morais	SN	2844000	brasilandia	-46,68825912	-23,47366905
+5408	sao paulo	jardim iguatemi	confederacao dos tamoios	182	8380220	jardim iguatemi	-46,44385491	-23,59654274
+5409	sao paulo	silvana evangelista professora	rodolfo pirani	392	8310000	jardim rodolfo pirani	-46,46184158	-23,6310997
+5410	sao paulo	nancy de oliveira fidalgo profa	miguel arcanjo dutra	SN	8430190	jardim santa terezinha zona leste	-46,42523956	-23,52485085
+5427	sao paulo	heitor villa lobos maestro	arvoreiro	107	4824010	parque das arvores	-46,69589996	-23,73250008
+5428	sao paulo	caran apparecido goncalves professor	gregorio allegri	101	5842070	vila das belezas	-46,74485016	-23,65115929
+5430	sao paulo	emanoel alves de araujo artista plastico	paulino alves escudeiro	290	4475350	guacuri	-46,63661957	-23,70108032
+5431	sao paulo	dogival barros gomes professor	elisio mendes gaia	101	4433220	jardim sao carlos zona sul	-46,65748978	-23,68311119
+5432	sao paulo	miguel hidalgo	anibal thomaz gomes	121	8431191	jardim nova guaianazes	-46,41841888	-23,53764915
+5433	sao paulo	luciane do espirito santo profa	francisco fernandes frazao	22	8452180	lajeado	-46,39661026	-23,53576088
+5434	sao paulo	amador dos santos fernandes prof	joao mendes de carvalho	85	8150450	jardim robru	-46,41244888	-23,51959038
+5435	sao paulo	giorgio gagliani caputo padre	rua quimanga	40	8451060	vila iolandalajeado	-46,40073013	-23,53792953
+5436	sao paulo	zenaide avelino maia professora	frederick banting	179	5848050	jardim germania	-46,75965881	-23,65769958
+5437	sao paulo	heidi alves lazzarini	quinta da conraria	299	5852480	parque santo antonio	-46,75835037	-23,66752052
+5438	sao paulo	maria do carmo campos ferreira dona	gagliano netto	506	5872080	jardim soraia	-46,77669907	-23,68116951
+5439	sao paulo	maria de lourdes vieira	pedroso da silva	744	8080040	parque paulistano	-46,43254852	-23,4874897
+5440	sao paulo	wilson rachid	itaim	0	8110840	vila itaim	-46,38972855	-23,49198914
+5441	sao paulo	luiz sergio claudino dos santos deputado	pedro antonio conceicao	255	2837170	vila joao batista	-46,6998291	-23,46051025
+5442	sao paulo	eulice silvio mendonca da silva professora	cantidio sampaio deputado	5647	2860001	vila souza	-46,7071991	-23,44202042
+5443	sao paulo	parque anhanguera	rua sao marcos	79	5283010	parque anhanguera  residencial sol nascente	-46,7753703	-23,4353038
+5447	sao paulo	evandro cavalcanti lins e silva	carmela terranova raimondi	47	4848200	jardim santa barbara	-46,6810112	-23,73974991
+5448	sao paulo	clarice seiko ikeda chagas	paulo costa ribeiro bastos	1051	4814720	jardim guanhembu	-46,68799973	-23,73010063
+5456	sao paulo	celia ribeiro landim profa	lourenco franco do prado	10	8142230	jardim nelia	-46,38066864	-23,50884056
+5458	sao paulo	nair hiroko konno hashimoto professora	januario da cunha barbosa	221	5793280	jardim elizabeth	-46,77622986	-23,63984299
+5467	sao paulo	marcos antonio costa professor	godoi bueno	19	8390400	jardim santo andre	-46,44316101	-23,63068962
+5473	sao paulo	republica do suriname	antonio joao de medeiros	810	8140060	itaim paulista	-46,39827347	-23,50978279
+5474	sao paulo	cleise marisa siqueira profa	pedro rodrigues	99	8150110	parque santa rita	-46,41592026	-23,51602936
+5475	sao paulo	jardim myrna ii	avenida carlos albert0 bastos machado	340	4856080	jardim myrna	-46,69499969	-23,77029991
+5476	sao paulo	neiva de lourdes andrade professora	giuseppe tartini	818	4844300	jardim sao bernardo	-46,7044	-23,7546
+5489	sao paulo	ivo bandoni prof	bom jesus do monte	741	3579000	jardim marilia	-46,49610138	-23,56669998
+5491	sao paulo	republica do haiti	novo oriente do piaui	38	3820310	vila silvia	-46,50613022	-23,49427032
+5492	sao paulo	parque ecologico	rua japichaua	300	3813310	jardim matarazzo	-46,47079086	-23,48180962
+5493	sao paulo	solon borges dos reis	avenida jose joaquim seabra	1187 A	5364000	jardim ivana	-46,75450134	-23,56889915
+5502	sao paulo	annette marlene fernandes de mello irma	arlindo bettio	45B	3828000	vila guaraciaba	-46,49644852	-23,4841404
+5503	sao paulo	virginia valeria aparecida de almeida freitas	sao paulo	184	5280110	residencial sol nascente	-46,7740593	-23,43648911
+5504	sao paulo	jardim canaa	estrada coronel jose gladiador	79	5267000	jardim canaa	-46,79190063	-23,43580055
+5505	sao paulo	aparecida de lourdes morais araujo professora	rua forte do santo antonio	64	4945230	jardim rio douro	-46,78224945	-23,71801949
+5512	sao paulo	joaquin suarez	domingos alaleone	47	3977397	fazenda da juta	-46,48529816	-23,61759949
+5514	sao paulo	thomaz rodrigues alckmin	valsa dos casais	101	8121800	itaim paulista	-46,37902069	-23,5074501
+5524	sao paulo	republica da nicaragua	rua augustin luberti	1	3977409	fazenda da juta	-46,48759842	-23,6128006
+5528	sao paulo	jardim aracati ii	marcelino leitao de oliveira	170	4949110	jardim aracati	-46,77051926	-23,72081947
+5529	sao paulo	jardim irene iii	antonio jose bentes	627	5891160	jardim irapiranga	-46,78878021	-23,66544914
+5530	sao paulo	solange apparecida landeiro aguiar professora	pietro casella	SN	5815055	jardim sao joao	-46,73696136	-23,66017914
+5531	sao paulo	joao carlos martins maestro	rua doutor renato locchi	36	5874080	parque novo santo amaro	-46,7850914	-23,7005043
+5532	sao paulo	regiane do carmo monteiro professora	tarcon	313	5223070	jardim adelfiore	-46,74047852	-23,40879059
+5533	sao paulo	anilza pioli professora	vale do sol	222	2820070	vila brasilandia	-46,70983124	-23,4491291
+5534	sao paulo	elisio teixeira leite iii	elisio teixeira leite	6700A	2810000	sitio morro grande	-46,71720123	-23,4435997
+5535	sao paulo	luiza salette junca de almeida professora	avenida deputado cantidio sampaio	1701	2860001	vila souza	-46,68003082	-23,4638195
+5536	sao paulo	republica argentina	philonilia goncalves dos santos	SN	2996165	parque nacoes unidas	-46,73276901	-23,44409943
+5537	sao paulo	chacara das corujas	miraflores	95	4842470	jardim castro alves	-46,6820488	-23,74028969
+5538	sao paulo	sergio murillo raduan professor	joao honorio caixeta	182	4857190	jardim varginha	-46,67910004	-23,78160095
+5539	sao paulo	ayrton senna da silva	rua ipe roxo	112	4896260	vargem grande	-46,70718002	-23,86120033
+5540	sao paulo	antonio candido de mello e souza	paulo sao	SN	4849308	chacara gaivotas	-46,66362	-23,73460007
+5541	sao paulo	renata menezes dos santos professora	manoel da costa capanema	19	4877170	cidade luz	-46,6405	-23,8782
+5542	sao paulo	joao doria deputado	rua jose alves irmao	30	8140000	itaim paulista	-46,38848114	-23,51872826
+5569	sao paulo	indigena guarani gwyra pepo	joao lang	153	4895070	cipo do meio	-46,65039063	-23,86746979
+5570	sao paulo	condominio vargem grande ii	iperoxo	120	4896360	colonia zona sul	-46,70750046	-23,86090088
+5571	sao paulo	loteamento das gaivotas ii	paulo sao	SN	4849308	chacara gaivotas	-46,6632309	-23,73411942
+5572	sao paulo	benedito celio de siqueira	paulo sao	SN	4849308	chacara gaivotas	-46,66334534	-23,73438454
+5573	sao paulo	sergio da costa prof	bartolome mitre presidente	298	2361040	associacao sobradinho	-46,57933044	-23,43642044
+5574	sao paulo	umberto luiz d urso dr	magnolia azul	80	8141640	jardim camargo novo	-46,38816071	-23,51255035
+5575	sao paulo	jose celestino bourroul	gaivao	177	8031180	vila nova curuca	-46,42022146	-23,51761968
+5576	sao paulo	esther de figueiredo ferraz	paulo gracindo	267	8421520	conjunto habitacional fazenda do carmo	-46,42225044	-23,56744534
+5577	sao paulo	jardim sao bento iii	algard	SN	5885680	conjunto habitacional jardim sao bento	-46,78633881	-23,67769051
+5578	sao paulo	dom paulo evaristo arns	coracao selvagem	SN	8223390	conjunto habitacional aguia de haia	-46,47222137	-23,52528
+5582	sao paulo	otoniel assis de holanda	acaciamimosa	SN	4854015	chacara cocaia	-46,69242859	-23,76655006
+5583	sao paulo	jose bento renato monteiro lobato	rua padre hans klein	92	4851000	jardim monte verde	-46,66490936	-23,75287056
+5584	sao paulo	mariazinha congilio	quatro	100	4851506	jardim monte verde	-46,66447449	-23,75305176
+5585	sao paulo	ada pellegrini grinover	jose diogo abadiano	195 A	4855440	jardim morais prado	-46,68420029	-23,77389908
+5586	sao paulo	claudirene aparecida jose da silva	jose diogo abadiano	195 B	4855440	jardim morais prado	-46,68460083	-23,77370071
+5587	sao paulo	vicentina aparecida tamborino professora	rua joao onorio caixeta	176	4857190	jardim varginha	-46,67959976	-23,78190041
+5588	sao paulo	jose xavier cortez	hierapolis	248	4859090	jardim santa fe zona sul	-46,70370102	-23,76469994
+5589	sao paulo	hilda ferraz kfouri professora	cancao da terra	112	4844560	jardim sao bernardo	-46,70446014	-23,75938988
+5590	sao paulo	parque tamari	amaro de pontes	854	4890360	parelheiros	-46,72790146	-23,83230019
+5591	sao paulo	antonio jose de sucre	valdomiro gonzaga silva	809	8111540	jardim das oliveiras	-46,37540054	-23,48970032
+5592	sao paulo	republica da guatemala	manfredo fest	160	8142800	jardim nelia	-46,38219833	-23,5095005
+5593	sao paulo	clorinda tritto giangiacomo professora	gregorio allegri	SN	5842070	vila das belezas	-46,74417877	-23,65138054
+5594	sao paulo	jardim limoeiro iii	rua golfo da california	8	8382190	3 divisao	-46,41424942	-23,62261963
+5596	sao paulo	odair martiniano da silva mandela	rua cachoeira nova	378	5574460	conjunto promorar raposo tavares	-46,80361176	-23,58470917
+5597	sao paulo	republica de honduras	delta	49	8071060	jardim nair	-46,45592117	-23,49106979
+5598	sao paulo	jose de san martin	delta	79	8071060	jardim nair	-46,45534979	-23,49175996
+5599	sao paulo	maria zilda gamba natel	jose carlos de toledo piza	SN	5712070	jardim parque morumbi	-46,73212814	-23,62118912
+5602	sao paulo	florestan fernandes	rua presidente vargas	200	5207000	vila caiuba	-46,74860001	-23,40099907
+5604	sao paulo	waldir rodolpho de castro	jeribas	SN	5868820	conjunto habitacional instituto adventista	-46,77973938	-23,66329956
+5625	sao paulo	raul cortez  raul cristiano machado cortez	rua  faustolo	213	5041000	agua branca	-46,68753052	-23,52408028
+5633	sao paulo	professor rubem azevedo alves	avenida deputado cantidio sampaio	1701	2860001	vila souza	-46,67979813	-23,4640007
+5640	sao paulo	dom agnelo cardeal rossi	rua americo turini	1860	4962020	vila do sol	-46,78263855	-23,74266052
+5642	sao paulo	adelaide rosa fernandes machado de souza professora	avenida dona belmira marin	3312	4846000	parque brasil	-46,6836	-23,753
+5646	sao paulo	barro branco ii	rua eduardo reuter	415B	8473533	barro branco	-46,39284897	-23,58300018
+5650	sao paulo	professora eliana passuelo	das taipas	1370	2991000	jardim rincao	-46,73567963	-23,44457054
+5651	sao paulo	ceeja clara mantelli dona	alcantara machado	4188	3302000	quarta parada	-46,58592987	-23,54320908
+5670	sao paulo	cel jto a ee antonio c c guimaraes filho professor	mutinga	5071	5110000	jardim santo elias	-46,75820947	-23,50484355
+5671	sao paulo	cel jto a ee albino cesar	cajamar	5	2308090	vila mazzei	-46,6066	-23,4776
+5672	sao paulo	cel jto a ee buenos aires	rua doutor olavo egidio	1008	2037001	santana	-46,6162508	-23,5005476
+5673	sao paulo	cel jto a ee joao dias da silveira professor	sousa breves	80	3069060	vila zilda	-46,56386389	-23,53513486
+5674	sao paulo	cel jto a ee nossa senhora da penha	rua padre benedito de camargo	762	3604000	penha de franca	-46,548021	-23,52129
+5675	sao paulo	cel jto a ee ermelino matarazzo	abel tavares	SN	3810110	jardim belem	-46,4700998	-23,4927148
+5676	sao paulo	cel jto a ee fadlo haidar	murmurios da tarde	200	8253580	conjunto residencial jose bonifacio	-46,4440347	-23,5534181
+5677	sao paulo	cel jto a ee mauro de oliveira professor	rua pedro soares almeida	134	5029030	vila anglo brasileira	-46,6951246	-23,5422456
+5678	sao paulo	cel jto a ee alexandre de gusmao	rua cisplatina	298	4211040	ipiranga	-46,6043324	-23,5881805
+5679	sao paulo	cel jto a ee rui bloem	rua dos bogaris	244	4047020	mirandopolis	-46,6449	-23,6103
+5680	sao paulo	cel jto a ee leopoldo santana professor	manoel duarte oliveira	151	5859100	capao redondo	-46,76675222	-23,66856163
+5681	sao paulo	cel jto a ee paulino nunes esposo	sadamu inoue	365	4865005	jardim casa grande	-46,7227	-23,7764
+5722	sao paulo	cel jto a ee paulo egydio o carvalho senador	araritaguaba	1264	2122011	vila maria	-46,58197854	-23,51498524
+5730	sao paulo	cel jto a ee julia macedo pantoja professora	rua assupa	200	3137050	vila prudente	-46,57653046	-23,5797596

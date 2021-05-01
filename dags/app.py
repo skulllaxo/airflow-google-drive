@@ -24,17 +24,11 @@ def filter_data_by_char(key_data:str,col:str,char:str,**kwargs):
     ti.xcom_push(key = key_data,value = data)
 
     
-def convert_columns(key_data:str,**kwargs):
-    def convert_upper_to_lower(df:pd.DataFrame,columns:list) -> pd.DataFrame:
-        for col in columns:
-            print(10*"@")
-            print(col)
-            df[col] = df[col].apply(str).apply(str.lower) 
+def convert_columns_type(**kwargs):
 
-        return df
 
     ti = kwargs['ti']
-    data = ti.xcom_pull(key = key_data)
+    data = ti.xcom_pull(key = 'filted_dataframe')
 
     df = pd.DataFrame(data)
 
@@ -44,16 +38,92 @@ def convert_columns(key_data:str,**kwargs):
     df.NOMEDEP = df.NOMEDEP.apply(str.replace,args = (' - ','_'))
     df.DE = df.DE.apply(str.replace,args = (' ','_'))
 
-    cols = ['NOMEDEP','DE','MUN','DISTR','BAIESC','ZONA','NOMESC','SITUACAO','TIPOESC','ENDESC','COMPLEND','BAIESC','ZONA']
-    df = convert_upper_to_lower(df,cols)
-
     data = df.to_dict()
 
-    ti.xcom_push(key = 'dataframe_formated',value = data)
+    ti.xcom_push(key = 'dataframe_typed',value = data)
+
+def rename_columns(**kwargs):
+        ti = kwargs['ti']
+        data = ti.xcom_pull(key = 'data_frame_lowercase')
+
+        df = pd.DataFrame(data)
+        df.columns = ["nome_rede_ensino",
+                  "diretoria_ensino",
+                  "municipio",
+                  "distrito",
+                  "cod_escola",
+                  "nome_escola",
+                  "situacao_escola",
+                  "tipo_escola",
+                  "endereco_escola",
+                  "numero_endereco",
+                  "complemento",
+                  "cep",
+                  "bairro",
+                  "zona_urbana",
+                  "longitude",
+                  "latitude",
+                  "cod_vinculadora"]
+
+        data = df.to_dict()
+
+        ti.xcom_push(key = 'dataframe_named_header',value = data )
+
+
+
+def convert_uppercase_to_lowercase(**kwargs):
+    cols = ['NOMEDEP','DE','MUN','DISTR','BAIESC','ZONA','NOMESC','SITUACAO','TIPOESC','ENDESC','COMPLEND','BAIESC','ZONA']
+    ti = kwargs['ti']
+    data = ti.xcom_pull(key = 'dataframe_typed')
+    df = pd.DataFrame(data)
+
+    for col in cols:
+        df[col] = df[col].apply(str).apply(str.lower) 
+
+    data = df.to_dict()
+    ti.xcom_push(key = 'data_frame_lowercase',value = data)
+
+
+def select_columns(**kwargs):
+    ti = kwargs['ti']
+    data = ti.xcom_pull(key = 'dataframe_named_header')
+    df = pd.DataFrame(data)
+
+    df = df[['municipio','nome_escola','endereco_escola','numero_endereco','cep','bairro','longitude','latitude']]
+    ti.xcom_push(key = 'dataframe_columns_selected',value = df.to_dict())
+
+def null_values(**kwargs):
+    ti = kwargs['ti']
+    data = ti.xcom_pull(key = 'dataframe_columns_selected')
+
+    df = pd.DataFrame(data)
+
+    df = df[df['latitude'].notna()]
+    df = df[df['longitude'].notna()]
+
+    df['municipio'] = df['municipio'].fillna('NULL')
+    df['endereco_escola'] = df['endereco_escola'].fillna('NULL')
+    df['numero_endereco'] = df['numero_endereco'].fillna('NULL')
+    df['cep'] = df['cep'].fillna(0)
+    df['bairro'] = df['bairro'].fillna('NULL')
+
+
+    ti.xcom_push(key = 'dataframe_null_values', value = df.to_dict())
+
+
+    
+
+def write_dataframe_to_csv(**kwargs):
+    ti = kwargs['ti']
+    data = ti.xcom_pull(key = 'dataframe_null_values')
+
+    df = pd.DataFrame(data)
+
+    df.to_csv('load_files/Result.csv',sep = '\t')
 
 default_args = {
     'owner': 'Andre',
-    'start_date': datetime(2021, 4,23),
+    'start_date': datetime(2021, 5,1),
     'retry_delay': timedelta(minutes=5),
     'provide_context': True
 }
@@ -71,10 +141,46 @@ with DAG(dag_id = 'School',default_args = default_args,schedule_interval = timed
     op_kwargs = {'key_data':'filted_dataframe','char':'SAO PAULO','col':'MUN'},
     dag = dag)
 
-    task_convert = PythonOperator(
-    task_id = 'convert_dataframe',
-    python_callable = convert_columns,
-    op_kwargs = {'key_data':'filted_dataframe'},
+    task_convert_type = PythonOperator(
+    task_id = 'convert_columns_type',
+    python_callable = convert_columns_type,
     dag = dag)
 
-task_dataframe >> task_filter >> task_convert
+    task_to_lowercase = PythonOperator(
+    task_id = 'convert_to_lowercase',
+    python_callable = convert_uppercase_to_lowercase,
+    dag = dag
+    )
+
+    task_columns_names = PythonOperator(
+    task_id = 'rename_columns',
+    python_callable = rename_columns,
+    dag = dag
+    )
+
+    task_select_columns = PythonOperator(
+    task_id = 'select_columns',
+    python_callable = select_columns,
+    dag = dag
+    )
+
+    task_null_values = PythonOperator(
+    task_id = 'null_values',
+    python_callable = null_values,
+    dag = dag
+    )
+
+
+    task_write_csv = PythonOperator(
+    task_id = 'write_csv',
+    python_callable = write_dataframe_to_csv,
+    dag = dag
+    )
+
+    
+    
+    
+    
+    
+
+task_dataframe >> task_filter >> task_convert_type >> task_to_lowercase >> task_columns_names >> task_select_columns >> task_null_values >> task_write_csv
