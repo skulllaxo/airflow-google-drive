@@ -6,9 +6,9 @@ class Database():
     def __init__(self):
         self.host = '127.0.0.1'
         self.dbname = 'escolas'
-        self.user = 'airflow'
-        self.password = 'airflow'
-        self.port = 5432
+        self.user = 'escolas'
+        self.password = 'escolas'
+        self.port = 5433
 
         self.conn = psycopg2.connect(
             host = self.host,
@@ -59,38 +59,30 @@ class Database():
         self.conn.commit()
 
     def close_connection(self):
-        self.cursor.close()
+        self.conn.close()
 
+if __name__ == '__main__':
+    df = pd.read_csv('load_files/Result.csv',sep = '\t')
 
-df = pd.read_csv('/Users/andrebalbinodasilva/airflow-google-drive/load_files/Result.csv',sep = '\t')
+    c = list(df.columns)
+    c[0] = 'id'
 
-c = list(df.columns)
-c[0] = 'id'
+    df.columns = c
+    df = df.drop('id',axis = 1)
 
-df.columns = c
-df = df.drop('id',axis = 1)
+    db = Database()
+    js = db.convert_dataframe_to_list(df)
 
-db = Database()
-js = db.convert_dataframe_to_list(df)
+    q = []
+    for n,row in enumerate(js):
 
-q = []
-for n,row in enumerate(js):
-
-    query = db.query_insert_generator('enderecos',row)
-    try:
+        query = db.query_insert_generator('enderecos',row)
         db.run_query(query)
-    except Exception as exp:
-        db.cursor.execute("ROLLBACK")
-        print(exp)
-        q.append({n:query})
-db.commit()
-db.close()
 
+    db.commit()
+    db.close_connection()
 
-
-cursor.close()
-
-print(c)
+    print(c)
 
 
 

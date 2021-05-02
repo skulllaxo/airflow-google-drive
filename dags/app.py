@@ -1,6 +1,9 @@
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 from datetime import timedelta,datetime
+from database import Database
+
+from drive import Drive
 import pandas as pd
 
 
@@ -121,6 +124,43 @@ def write_dataframe_to_csv(**kwargs):
 
     df.to_csv('load_files/Result.csv',sep = '\t')
 
+
+def upload_file(**kwargs):
+    drive = Drive()
+    drive.upload_file(folder_id ='1wCQlfB-q1Aj6AceKz5RLBExMo9bJFutc',file_name = 'load_files/Result.csv',title = 'ETL_school.csv')
+
+def insert_into_database(**kwargs):
+
+    ti = kwargs['ti']
+    data = ti.xcom_pull(key = 'dataframe_null_values')
+    df = pd.DataFrame(data)
+
+    c = list(df.columns)
+    c[0] = 'id'
+
+    df.columns = c
+
+    #remove column id
+    df = df.drop('id',axis = 1)
+
+    #creates database connection
+    db = Database()
+
+    #convert dataframe to list
+    data_list = db.convert_dataframe_to_list(df)
+
+    
+    for n,row in enumerate(data_list):
+
+        #creates sql insert query
+        query = db.query_insert_generator('enderecos',row)
+
+        #execute sql query
+        db.run_query(query)
+        
+    db.commit()
+    db.close_connection()
+
 default_args = {
     'owner': 'Andre',
     'start_date': datetime(2021, 5,1),
@@ -177,10 +217,20 @@ with DAG(dag_id = 'School',default_args = default_args,schedule_interval = timed
     dag = dag
     )
 
+    task_insert_into_database = PythonOperator(
+    task_id = 'insert_into_database',
+    python_callable = insert_into_database,
+    dag = dag
+    )
+
+    task_upload_file = PythonOperator(
+    task_id = 'upload_file',
+    python_callable = upload_file,
+    dag = dag)
     
     
     
     
     
 
-task_dataframe >> task_filter >> task_convert_type >> task_to_lowercase >> task_columns_names >> task_select_columns >> task_null_values >> task_write_csv
+task_dataframe >> task_filter >> task_convert_type >> task_to_lowercase >> task_columns_names >> task_select_columns >> task_null_values >> [task_write_csv,task_insert_into_database,task_upload_file]
